@@ -8,31 +8,13 @@
 nav:
 
     - Accueil: index.md
-            
-    - Ingénierie collaborative:
-
-        - De quoi parlons nous ?: pages/presentation.md
-
-        - Katalog - CMS: pages/katalog.md
-
-        - Konnect - DataScience: https://konnect.konsilion.fr
-
-    - Recherche & Développement:
-
-        - Projets: katalog/projets/home.md
-
-        - Tâches: katalog/taches/home.md
-
-        - Ressources: katalog/ressources/home.md
-        
-    - À propos: pages/informations.md
 
 
 
 # SITE INFORMATIONS 
 # -------------------------------------------------
 
-site_name: Konsilion - Low-technologie
+site_name: Diag360 - Résilience territoriale
 site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
 site_url: https://konsilion.fr
