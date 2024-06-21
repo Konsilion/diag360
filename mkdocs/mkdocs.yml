@@ -9,6 +9,8 @@ nav:
 
     - Accueil: index.md
 
+    - Outil: pages/diag360_outil.md
+
 
 
 # SITE INFORMATIONS 
@@ -36,8 +38,8 @@ theme:
     palette:
         primary: blue grey
         accent: green
-    logo: https://github.com/Konsilion/website/blob/master/media/logo.png?raw=true
-    favicon: https://user-images.githubusercontent.com/99027754/209714307-ab199f0d-509b-404f-9dd8-d8bd8fb99e37.png
+    logo: https://github.com/Konsilion/diag360/blob/master/mkdocs/media/logo_white_diag360.png?raw=true
+    favicon: https://github.com/Konsilion/diag360/blob/master/mkdocs/media/logo_color_diag360.png?raw=true
 
 
 

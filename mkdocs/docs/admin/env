@@ -12,7 +12,6 @@ extra:
   generator: false
 
 plugins:
-  - search
   - macros
 
 markdown_extensions:
