@@ -1,0 +1,7 @@
+{
+    "Nos différentes tâches liées aux projets": {
+        "descr": "Découvrez ici l'avancement des tâches reliées à nos projets. Chaque tâche a sa propre page de détail avec des informations sur le but, l'échéance et l'avancement de la tâche. Vous pouvez chercher une tâche en utilisant les filtres ou en parcourant des catégories de tâches prédéfinies.",
+        "model": "tache",
+        "cardview": "true"
+    }
+}
