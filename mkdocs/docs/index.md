@@ -12,4 +12,4 @@ hide:
 
 [Tester l'outil V1 ➜](https://konsilion.github.io/diag360/pages/diag360_outil/){.md-button .md-button--primary style="float: right; margin: 10px;"}
 
-[Tester l'outil Secours ➜]([https://konsilion.github.io/diag360/pages/diag360_outil/](http://195.200.14.8/app/diag360_v3)){.md-button .md-button--primary style="float: right; margin: 10px;"}
+[Tester l'outil Secours ➜](http://195.200.14.8/app/diag360_v3){.md-button .md-button--primary style="float: right; margin: 10px;"}
