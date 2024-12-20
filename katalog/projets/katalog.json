@@ -1,0 +1,13 @@
+{
+  "Bienvenue sur notre catalogue projets": {
+    "descr": "Ici, vous trouverez nos différents projets, vous pouvez utiliser les filtres de recherche ou parcourir les catégories de projets pour trouver ceux qui vous intéressent. Chaque projet à sa propre page de détail où vous donnant une idée plus concrète de ce dernier. Vous pouvez laisser des commentaires et poser des questions sur les projets qui vous intéressent dans leur section 'commentaires'.",
+    "model": "projet",
+    "cardview": "true"
+  },
+  "Picojoule - Méthanisation": {
+    "descr": "PicoJoule désigne une unité de mesure d’énergie. Depuis 2012, c’est aussi le nom d’une association  qui fait la promotion des énergies renouvelables avec de petites installations de méthanisation. Suite à ses expériences à Artilect, le Fab-Lab de Toulouse, Picojoule a intégré la Maison de l’Économie Sociale et Solidaire (MES) de Ramonville en 2016.",
+    "url_csv": "https://github.com/Konsilion/katalog-template/blob/master/docs/katalog/ressources/data.csv",
+    "url_origin": "https://konsilion.fr",
+    "activate": "true"
+  }
+}
