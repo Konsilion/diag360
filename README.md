@@ -1,28 +1,10 @@
-# README
+# Diagnostic 360° de la résilience territoire.
+## Un outil de diagnostic et de mobilisation des élus.
+L
+e Diag 360 vise à donner une photographie du degré de vulnérabilité et de résilience d’un territoire à un moment donné. Il établit un diagnostic simple des enjeux territoriaux, met en exergue les faiblesses et les forces du territoire du point de vue de la résilience, et oriente les réflexions stratégiques et actions opérationnelles. Il permet d’établir un état des lieux initial avant d’engager une démarche de résilience, puis d’évaluer l’évolution de cette résilience au fil du temps. Il offre aussi un levier de comparaison du niveau de résilience avec des territoires voisins ou similaires.
 
-**Informez-nous de ce que vous faites**
-
-Vous pouvez en savoir plus sur la rédaction Markdown ici : [Y accèder](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
-
----
-
-# NOM DE VOTRE PROJET
-
-Insérez ici une brève description de votre idée, à quel besoin répond elle.
-
-## Présentation globale
-
-...
-
-## Documentation et ressources
-
-* Documentation officielle : [Accèder à la documentation](https://votre_site.ici)
-* Site web : [Accèder au site](https://votre_site.ici)
-
-* Une question, un bug ? Accèder à la catégorie 'Issues' de ce répertoire.
+Il se fonde sur une approche par les besoins des habitants, suivant la Théorie du Donut proposée par Kate Raworth. Cette approche 360° vise à embrasser l’ensemble des besoins dans une vision holistique. Fondé sur des indicateurs chiffrés, il dépend néanmoins de la disponibilité des données et ne peut donc prétendre à l’exhaustivité dans son analyse : d’où la notion de « photographie » qui expose son caractère illustratif et représentatif. Le Diag360 a vocation à être un déclencheur pour l’action.
 
 ---
 
-Ce document est régi par les termes de la licence juridique [Creative Commons CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) 
-
-<img style="display: center; margin: 0 auto;" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" width="20%">
+Diagnostic 360° de la résilience territoriale  © 2024   by   Frédéric Haas  is licensed under  CC BY-NC-ND 4.0 .
