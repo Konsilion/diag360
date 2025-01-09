@@ -6,9 +6,9 @@
 
 A partir de la Théorie du Donut, qui défend l'idée d'un plancher social, les besoins humains et sociétaux sont structurés en 3 catégories :
 
-* Les besoins vitaux : des besoins physiologiques et sanitaires dont la survie de l’être humain dépend. Abraham Maslow les présente comme socle de sa pyramide : me nourrir, avoir accès l’eau, avoir un toit, me soigner, me sentir en sécurité.
-* Les besoins essentiels : des besoins indispensables pour la vie en société. Ils correspondent aux tranches intermédiaires et supérieures de la pyramide de Maslow : m’informer et m’instruire, vivre ensemble et faire société, avoir accès à la nature.
-* Les besoins induits : ils sont nécessaires pour répondre aux besoins vitaux et essentiels : produire et m'approvisionner en produits de consommation courante, me déplacer, avoir accès à l’énergie, financer mes projets. 
+* **Les besoins vitaux** : des besoins physiologiques et sanitaires dont la survie de l’être humain dépend. Abraham Maslow les présente comme socle de sa pyramide : me nourrir, avoir accès l’eau, avoir un toit, me soigner, me sentir en sécurité.
+* **Les besoins essentiels** : des besoins indispensables pour la vie en société. Ils correspondent aux tranches intermédiaires et supérieures de la pyramide de Maslow : m’informer et m’instruire, vivre ensemble et faire société, avoir accès à la nature.
+* **Les besoins induits** : ils sont nécessaires pour répondre aux besoins vitaux et essentiels : produire et m'approvisionner en produits de consommation courante, me déplacer, avoir accès à l’énergie, financer mes projets. 
 
 ### Douze fonctions-clés territoriales
 
