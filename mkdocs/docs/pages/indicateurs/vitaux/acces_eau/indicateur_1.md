@@ -1,10 +1,15 @@
 # Part du territoire en alerte sécheresse estivale pour les eaux superficielles 
 
-[Accéder à l’indicateur](https://crater.resiliencealimentaire.org/carte/eau-alertes-secheresse/epci)
-
 |Type d'objectif|Type d'indicateur|
 |--|--|
 |Subsistance|Indicateur d’action|
+
+---
+
+## Accéder à l'indicateur
+
+- [Crater](https://crater.resiliencealimentaire.org/carte/eau-alertes-secheresse/epci)
+
 
 
 ## Présentation de l’indicateur
