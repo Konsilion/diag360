@@ -6,10 +6,11 @@ hide:
 
 # **Diag360° de la résilience territoriale**
 
-![logo-accueil](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Diag_transparent.png?raw=true){style="max-width: 100%; width: 450px"}
-
 
 Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territoriaux sur objectifs de subsistance, gestion de crise, transformation et soutenabilité.
+
+
+![logo-accueil](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Diag_transparent.png?raw=true){style="max-width: 100%; width: 450px"}
 
 <br><br>
 
