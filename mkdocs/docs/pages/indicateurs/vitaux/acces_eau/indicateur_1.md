@@ -9,10 +9,6 @@ hide:
 |--|--|
 |Subsistance|Indicateur d’action|
 
-**Accéder à l'indicateur :**
-
-- [Crater](https://crater.resiliencealimentaire.org/carte/eau-alertes-secheresse/epci)
-
 ## Présentation de l’indicateur
 
 Cet indicateur est fourni par l’outil CRATER.
@@ -24,3 +20,10 @@ Il est calculé à partir des Données sécheresses disponibles pour les années
 ## Motivation de l’indicateur
 
 Les sécheresses peuvent mettre en péril l’approvisionnement des territoires en eau. Lors des étés 2022 et 2023, plusieurs centaines de communes ont été dû être ravitaillées par camions-citernes pendant plusieurs semaines. 
+
+---
+
+**Accéder à l'indicateur :**
+
+- [Crater](https://crater.resiliencealimentaire.org/carte/eau-alertes-secheresse/epci)
+
