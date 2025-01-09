@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 # Présentation générale de l'outil
 
 ## Objectifs de l’outil « Diag 360 »
