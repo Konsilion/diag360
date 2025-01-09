@@ -28,6 +28,7 @@ h3 {
     color: #0D756A !important; /* Vert d'eau */
 }
 
-.md-content p {
+.md-content p,
+.md-content li {
     text-align: justify;
 }
