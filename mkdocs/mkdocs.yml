@@ -2,12 +2,12 @@ nav:
 
     - Accueil: index.md
 
-    - Présentation : 
+    - Le Projet : 
         - Présentation générale : pages/presentation_generale_outil.md
         - Methodologie : pages/methodologie.md
         - Collectif & Partenaires : pages/equipe_projet.md
 
-    - Outil: pages/diag360_outil.md
+    - L'Outil: pages/diag360_outil.md
 
 
 
