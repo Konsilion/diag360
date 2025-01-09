@@ -30,6 +30,7 @@ theme:
 
 plugins:
   - macros
+  - search
 
 markdown_extensions:
   - tables
