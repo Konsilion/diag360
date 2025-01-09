@@ -13,6 +13,9 @@ site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
 site_url: https://phoenix-conseil.org
 repo_url: https://github.com/konsilion/diag360
+repo_name: konsilion/diag360
+edit_uri: edit/main/docs/
+
 
 extra:
   generator: false
@@ -20,6 +23,7 @@ extra:
 theme:
     name: material
     features:
+      - content.action.edit
       - navigation.indexes
       - navigation.tracking
       - navigation.top
