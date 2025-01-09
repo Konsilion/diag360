@@ -1,3 +1,8 @@
+---
+hide:
+    - toc
+---
+
 # Avoir accès à l'eau potable
 
 ??? info "Présentation du besoin"
