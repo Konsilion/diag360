@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+  - toc
 ---
 
 # Part du territoire en alerte sécheresse estivale pour les eaux superficielles 
