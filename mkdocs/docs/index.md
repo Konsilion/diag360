@@ -9,7 +9,7 @@ hide:
 
 # **Diag360° de la résilience territoriale**
 
-![logo-accueil](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Bandeau_Diag360.png?raw=true){style="max-width: 100%; width: 450px"}
+![logo-accueil](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Diag_transparent.png?raw=true){style="max-width: 100%; width: 450px"}
 
 
 Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territoriaux sur objectifs de subsistance, gestion de crise, transformation et soutenabilité.
@@ -27,13 +27,12 @@ Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territ
     ## Subsistance, gestion de crise, transformation et soutenabilité
 
     ---
-
-    « La ou les low-tech, littéralement basses technologies, désignent une catégorie de techniques durables, simples, appropriables et résilientes. [...] La low-tech n'est pas une démarche technophobe, mais technocritique. Autrement dit, même si elle s'oppose à l’obsession de la high-tech, celle-ci s'accorde du principe de techno-discernement1, la low-tech est donc complémentaire à la high-tech dite utile. 
     
-    La low-tech désigne tout type de produits, de services, de procédés ou autres systèmes permettant, via une transformation technique, organisationnelle et culturelle, le développement de nouveaux modèles de société intégrant, dans leurs principes fondamentaux, les exigences de durabilité forte et de résilience collective2. »
+    Donner une description
+    
     ---
 
-    ![Image title](https://www.cerema.fr/sites/default/files/images/product/2020/10/couv-boussoleresilience-cerema.jpg){ width="400px" }
+    ![Image title](https://www.cerema.fr/sites/default/files/images/product/2020/10/couv-boussoleresilience-cerema.jpg){ width="400px" style="float: right"}
 
 <br><br><br><br><br><br><br><br>
 
