@@ -9,7 +9,7 @@
     color: #ffffff; /* Texte blanc pour le contraste */
 }
 
-.md-content {margin-bottom: 75px;}
+.md-content {margin-bottom: 75px !important;}
 
 /* Style pour les titres h1 */
 h1 {
