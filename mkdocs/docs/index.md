@@ -4,9 +4,6 @@ hide:
   - navigation
 ---
 
-<br>
-
-
 # **Diag360° de la résilience territoriale**
 
 ![logo-accueil](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Diag_transparent.png?raw=true){style="max-width: 100%; width: 450px"}
