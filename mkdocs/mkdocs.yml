@@ -2,6 +2,8 @@ nav:
 
     - Accueil: index.md
 
+    - Présentation : pages/presentation_generale_outil.md
+
     - Outil: pages/diag360_outil.md
 
 
