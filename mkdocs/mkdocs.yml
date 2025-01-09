@@ -2,7 +2,7 @@ nav:
 
     - Accueil: index.md
 
-    - Le Projet : 
+    - Le projet : 
         - Présentation générale : pages/presentation_generale_outil.md
         - Methodologie : pages/methodologie.md
         - Collectif & Partenaires : pages/equipe_projet.md
@@ -11,7 +11,7 @@ nav:
         - Besoins vitaux :
             - Avoir accès à l'eau potable : pages/indicateurs/vitaux/acces_eau/presentation.md
 
-    - L'Outil: pages/diag360_outil.md
+    - L'outil: pages/diag360_outil.md
 
 
 
