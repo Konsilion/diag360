@@ -5,6 +5,12 @@ Les partenaires institutionnels du projet
 
 **IMAGES A INSERER**
 
+| ![image](https://github.com/user-attachments/assets/d9b57b99-8da8-49cc-972c-639fe518a8c7)
+| ![Cerema](https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/backers/cerema_logo.jpg) | ![France Villes & Territoires Durables](URL_FVTD) | ![The Shift Project](URL_SHIFT) |
+|---------------------------------------|-----------------------|---------------------------------------------------|---------------------------------|
+
+
+
 Les contributrices et contributeurs au projet
 
 Une vingtaine de contributeurs ont participé à la phase de co-construction des indicateurs, entre novembre 2022 et mars 2023, et ont ainsi permis de poser les fondements de ce document. Qu'elles et ils en soient remercié.e.s  : 
