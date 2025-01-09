@@ -8,3 +8,20 @@
     background-color: #0D756A; /* Vert d'eau */
     color: #ffffff; /* Texte blanc pour le contraste */
 }
+
+/* Style pour les titres h1 */
+h1 {
+    font-weight: bold; /* Gras */
+    color: #0D756A; /* Vert d'eau */
+}
+
+/* Style pour les titres h2 */
+h2 {
+    font-weight: bold; /* Gras */
+}
+
+/* Style pour les titres h3 */
+h3 {
+    font-style: italic; /* Italique */
+    color: #0D756A; /* Vert d'eau */
+}
