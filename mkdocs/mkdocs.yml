@@ -12,6 +12,7 @@ site_name: Diag360 - Résilience territoriale
 site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
 site_url: https://konsilion.github.io/diag360
+repo_url: https://github.com/Konsilion/diag360
 repo_name: konsilion/diag360
 edit_uri: edit/master/mkdocs/docs/
 
