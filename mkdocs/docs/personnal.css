@@ -3,3 +3,8 @@
 .md-tabs {background-color: #074942}
 
 .md-header__source {display: none}
+
+.md-typeset__table thead {
+    background-color: #a8dadc; /* Vert d'eau */
+    color: #ffffff; /* Texte blanc pour le contraste */
+}
