@@ -27,3 +27,7 @@ h3 {
     font-style: italic !important; /* Italique */
     color: #0D756A !important; /* Vert d'eau */
 }
+
+.md-content p {
+    text-align: justify;
+}
