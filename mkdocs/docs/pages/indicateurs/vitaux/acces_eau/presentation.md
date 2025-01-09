@@ -1,6 +1,7 @@
 # Avoir accès à l'eau potable
 
 ??? note
+
     L’accès à l’eau correspond à ses usages de base, en premier lieu les usages domestiques (boisson, préparation et cuisson des aliments, hygiène corporelle, hygiène générale et propreté du domicile ou du lieu de vie), mais aussi les activités industrielles, l’agriculture, la production d’électricité et le refroidissement des centres électriques, etc. Pour répondre à ces divers besoins et activités, des prélèvements d’eau sont réalisés dans les milieux. Pour quelques usages spécifiques, comme le refroidissement, les usagers peuvent recourir à de l’eau saumâtre ou salée, mais dans la majorité des cas, c’est de l’eau douce qui est prélevée.
     La majorité (autour de 90%) des prélèvements d’eau est restituée aux milieux naturels, hormis la partie évaporée ou absorbée par les individus ou la biosphère, mais souvent avec une qualité altérée et une modification du régime des eaux. Les prélèvements ont donc des impacts sur l’état quantitatif et qualitatif des eaux.
     L’eau se révèle actuellement la première ressource naturelle affectée par des conflits d’usage en France, dans un contexte de raréfaction liée au dérèglement climatique. Les enjeux de transformation et de soutenabilité dans nos usages de l’eau sont déterminants pour notre résilience collective. 
