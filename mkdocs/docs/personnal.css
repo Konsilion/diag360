@@ -1,0 +1,7 @@
+:root > * {
+    --md-primary-fg-color: #0D756A !important;
+}
+
+.md-tabs {
+    background-color: #074942;
+}
