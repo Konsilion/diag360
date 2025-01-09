@@ -77,3 +77,11 @@ D’autres questionnaires pourront être imaginés à l’avenir pour des échel
 * [ODD et Territoires](https://oddett.lab.sspcloud.fr/app/dealapp)
 * Portail open data de la Direction interministérielle du numérique (DINUM)
 
+
+<style>
+  /* Applique 100% de la largeur aux tableaux dans leur contenant */
+  .md-typeset table {
+      width: 100%;
+      table-layout: fixed; /* Assure un meilleur comportement pour des colonnes de tailles égales */
+  }
+</style>
