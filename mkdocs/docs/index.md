@@ -57,7 +57,7 @@ Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territ
        background-attachment: fixed;
     }
 
-
+  .md-content__button{display:none}
 
   
 </style>
