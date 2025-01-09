@@ -27,8 +27,6 @@ theme:
     palette:
         primary: blue grey
         accent: green
-    logo: https://github.com/Konsilion/diag360/blob/master/mkdocs/media/logo_white_diag360.png?raw=true
-    favicon: https://github.com/Konsilion/diag360/blob/master/mkdocs/media/logo_color_diag360.png?raw=true
 
 plugins:
   - macros
