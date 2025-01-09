@@ -50,4 +50,14 @@ Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territ
     .md-button--secondary {
         background-color: rgba(255,255,255,0.8);
     }
+    body { 
+       background-image: url('https://metropoleparticipative.fr/uploads/Image/a0/44289_203_Grandalpe-RU-vue-large.jpg'), linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-attachment: fixed;
+    }
+
+
+
+  
 </style>
