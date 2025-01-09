@@ -13,17 +13,17 @@
 
 /* Style pour les titres h1 */
 h1 {
-    font-weight: bold; /* Gras */
+    font-weight: bold !important; /* Gras */
     color: #0D756A !important; /* Vert d'eau */
 }
 
 /* Style pour les titres h2 */
 h2 {
-    font-weight: bold; /* Gras */
+    font-weight: bold !important; /* Gras */
 }
 
 /* Style pour les titres h3 */
 h3 {
-    font-style: italic; /* Italique */
-    color: #0D756A; /* Vert d'eau */
+    font-style: italic !important; /* Italique */
+    color: #0D756A !important; /* Vert d'eau */
 }
