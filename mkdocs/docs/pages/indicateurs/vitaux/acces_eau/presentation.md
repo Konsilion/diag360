@@ -10,12 +10,11 @@
     
     La directive européenne n°2020/2184, dite directive « eau potable » a imposé aux États-membres de mettre en œuvre « les mesures nécessaires pour améliorer ou préserver l’accès de tous aux eaux destinées à la consommation humaine, en particulier les groupes vulnérables et marginalisés ». Enfin, la loi du 10 février 2020 relative à la lutte contre le gaspillage et à l’économie circulaire (AGEC) rappelle aussi que « les établissements recevant du public sont tenus d'être équipés d'au moins une fontaine d'eau potable accessible au public, lorsque cette installation est réalisable dans des conditions raisonnables. »
 
-| **Subsistance** : Permettre à chacun d'accéder à l'eau nécessaire pour ses besoins | **Indicateurs** |
-|---|---|
-| 1 | Part du territoire en alerte sécheresse estivale pour les eaux superficielles |
-| 2 | Existence d’une tarification progressive de l’eau |
-| 3 | Nombre de fontaines publiques pour 1.000 habitants |
-
+| **Subsistance** : Permettre à chacun d'accéder à l'eau nécessaire pour ses besoins | 
+|---|
+| Part du territoire en alerte sécheresse estivale pour les eaux superficielles |
+| Existence d’une tarification progressive de l’eau |
+| Nombre de fontaines publiques pour 1.000 habitants |
 
 
     
