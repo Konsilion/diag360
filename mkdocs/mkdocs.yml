@@ -6,6 +6,10 @@ nav:
         - Présentation générale : pages/presentation_generale_outil.md
         - Methodologie : pages/methodologie.md
         - Collectif & Partenaires : pages/equipe_projet.md
+        
+    - Les indicateurs :
+        - Besoins vitaux :
+            - pages/indicateurs/vitaux/acces_eau.md
 
     - L'Outil: pages/diag360_outil.md
 
