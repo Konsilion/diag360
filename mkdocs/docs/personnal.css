@@ -1,7 +1,5 @@
-:root > * {
-    --md-primary-fg-color: #0D756A !important;
-}
+:root > * {--md-primary-fg-color: #0D756A !important}
 
-.md-tabs {
-    background-color: #074942;
-}
+.md-tabs {background-color: #074942}
+
+.md-header__source {display: none}
