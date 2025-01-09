@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Part du territoire en alerte sécheresse estivale pour les eaux superficielles 
 
 |Type d'objectif|Type d'indicateur|
