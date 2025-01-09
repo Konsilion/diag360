@@ -2,7 +2,9 @@ nav:
 
     - Accueil: index.md
 
-    - Présentation : pages/presentation_generale_outil.md
+    - Présentation : 
+        - Présentation générale : pages/presentation_generale_outil.md
+        - Methodologie : methodologie.md
 
     - Outil: pages/diag360_outil.md
 
