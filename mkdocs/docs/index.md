@@ -10,10 +10,7 @@ hide:
 
 Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territoriaux sur objectifs de subsistance, gestion de crise, transformation et soutenabilité.
 
-
-![logo-accueil](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Diag_transparent.png?raw=true){style="float: right; max-width: 100%; width: 450px"}
-
-<br><br>
+<br>
 
 [On continue ?](./pages/presentation_generale_outil/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 
