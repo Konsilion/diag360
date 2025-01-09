@@ -1,6 +1,5 @@
 theme:
     name: material
-    custom_dir: docs/admin/overrides
     features:
       - navigation.indexes
       - navigation.tracking
