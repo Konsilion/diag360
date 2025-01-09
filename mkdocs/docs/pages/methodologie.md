@@ -53,7 +53,7 @@ L’outil observe l’état de la résilience du territoire, résultant de ses c
 * **Indicateurs d’action** : Ils s’intéressent à des actions structurantes qui ont pu être développées dans les années récentes par les pouvoirs publics. A la différence des indicateurs d’état, il s’agit de paramètres sur lesquels la collectivité peut avoir une influence directe au cours du mandat électif en cours.
 
 #### Choix des indicateurs
-Dans la mesure du possible, les indicateurs sélectionnés visent à se rapproche de ceux retenus à l’échelle nationale par l’INSEE pour le suivi national des Objectifs de Développement Durable : [Lien](https://www.insee.fr/fr/statistiques/2658587?sommaire=2654964)
+Dans la mesure du possible, les indicateurs sélectionnés visent à se rapproche de ceux retenus à l’échelle nationale par l’INSEE pour le suivi national des Objectifs de Développement Durable : [En savoir plus - INSEE](https://www.insee.fr/fr/statistiques/2658587?sommaire=2654964)
 
 #### Pondération des indicateurs
 Par défaut, tous les indicateurs ont une égale pondération de 1. Il est suggéré d’affiner cette pondération, avec une échelle à deux ou trois coefficients, limitée aux indicateurs d’état, afin d’affiner le diagnostic en fonction des caractéristiques propres à chaque territoire. 
