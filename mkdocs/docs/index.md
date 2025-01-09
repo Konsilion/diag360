@@ -10,7 +10,7 @@ hide:
 Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territoriaux sur objectifs de subsistance, gestion de crise, transformation et soutenabilité.
 
 
-![logo-accueil](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Diag_transparent.png?raw=true){style="max-width: 100%; width: 450px"}
+![logo-accueil](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Diag_transparent.png?raw=true){style="float: right; max-width: 100%; width: 450px"}
 
 <br><br>
 
@@ -24,13 +24,8 @@ Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territ
 
     ## Subsistance, gestion de crise, transformation et soutenabilité
 
-    ---
-    
     Donner une description
     
-    ---
-
-    ![Image title](https://www.cerema.fr/sites/default/files/images/product/2020/10/couv-boussoleresilience-cerema.jpg){ width="400px" style="float: right"}
 
 <br><br><br><br><br><br><br><br>
 
