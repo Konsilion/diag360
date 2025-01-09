@@ -4,7 +4,7 @@ nav:
 
     - Présentation : 
         - Présentation générale : pages/presentation_generale_outil.md
-        - Methodologie : methodologie.md
+        - Methodologie : pages/methodologie.md
 
     - Outil: pages/diag360_outil.md
 
