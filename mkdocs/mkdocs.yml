@@ -1,10 +1,3 @@
-# BIENVENU ! MODIFIER ICI LES PARAMETRES DE VOTRE PLATEFORME KATALOG
-# -------------------------------------------------
-
-
-# NAVIGATION
-# -------------------------------------------------
-
 nav:
 
     - Accueil: index.md
@@ -13,27 +6,23 @@ nav:
 
 
 
-# SITE INFORMATIONS 
-# -------------------------------------------------
-
 site_name: Diag360 - Résilience territoriale
 site_author: Nicolas Brémond
 site_description: Développer, proposer et promouvoir la Low-technologie.
-site_url: https://konsilion.fr
-repo_url: https://github.com/konsilion/website
+site_url: https://phoenix-conseil.org
+repo_url: https://github.com/konsilion/diag360
 
 extra:
-  katalog_repo: "https://github.com/konsilion/website"
-  katalog_site: "https://konsilion.fr"
-  katalog_mdp: "konsilion"
-  
-
-# LANGUE, COULEURS et LOGO
-#
-# [Liste des couleurs](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color)
-# -------------------------------------------------
+  generator: false
 
 theme:
+    name: material
+    features:
+      - navigation.indexes
+      - navigation.tracking
+      - navigation.top
+      - navigation.tabs
+      - navigation.tabs.sticky
     language: fr
     palette:
         primary: blue grey
@@ -41,13 +30,24 @@ theme:
     logo: https://github.com/Konsilion/diag360/blob/master/mkdocs/media/logo_white_diag360.png?raw=true
     favicon: https://github.com/Konsilion/diag360/blob/master/mkdocs/media/logo_color_diag360.png?raw=true
 
+plugins:
+  - macros
 
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
 
-# MENTIONS 
-# -------------------------------------------------
-
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
+  - admin/css/colors.css
+  
 copyright: Une plateforme développé avec ❤ par le Collectif Diagnostic 360° - Codé par Phoenix Conseil en Transformation - © 2024 by Frédéric Haas is licensed under CC BY-NC-ND 4.0
-
-# /!\   NE PAS MODIFIER CI-DESSOUS   /!\
-# -------------------------------------------------
-INHERIT: ./docs/admin/env
