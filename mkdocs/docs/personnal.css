@@ -14,7 +14,7 @@
 /* Style pour les titres h1 */
 h1 {
     font-weight: bold; /* Gras */
-    color: #0D756A; /* Vert d'eau */
+    color: #0D756A !important; /* Vert d'eau */
 }
 
 /* Style pour les titres h2 */
