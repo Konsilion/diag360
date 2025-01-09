@@ -6,10 +6,8 @@ hide:
 ---
 
 <div>
-    <iframe style=" position: fixed; top: 0px; bottom: 0px; right: 0px; width: 100%; border: none; margin: 0; padding: 0; overflow: hidden; height: 100%; " src="https://konsilion.runmercury.com/app/diag360_v3"></iframe>
+    <iframe style=" position: fixed; top: 0px; bottom: 0px; right: 0px; width: 100%; border: none; margin: 0; padding: 0; overflow: hidden; height: 100%; " src="https://mercury.konsilion.fr/app/diag360_v3"></iframe>
 </div>
-
-
 
 <style>
     h1 {display: none}
