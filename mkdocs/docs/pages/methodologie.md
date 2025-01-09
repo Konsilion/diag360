@@ -56,7 +56,7 @@ D’autres questionnaires pourront être imaginés à l’avenir pour des échel
 ## Sources majeurs
 
 * [Observatoire des territoires](https://www.observatoire-des-territoires.gouv.fr/outils/cartographie-interactive/)
-* [INSEE Local](https://statistiques-locales.insee.fr/]
+* [INSEE Local](https://statistiques-locales.insee.fr/)
 * [INSEE](https://www.insee.fr/fr/statistiques)
 * [Territoire au futur](https://territoiresaufutur.org/carte)
 * [Agenda 2030](https://www.agenda-2030.fr)
