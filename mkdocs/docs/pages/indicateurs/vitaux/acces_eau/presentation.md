@@ -17,25 +17,25 @@
 | **Subsistance** : Permettre à chacun d'accéder à l'eau nécessaire pour ses besoins | 
 |---|
 | [Part du territoire en alerte sécheresse estivale pour les eaux superficielles](https://konsilion.github.io/diag360/pages/indicateurs/vitaux/acces_eau/indicateur_1/) |
-| [Existence d’une tarification progressive de l’eau](https://example.com/tarification-eau) |
-| [Nombre de fontaines publiques pour 1.000 habitants](https://example.com/fontaines-publiques) |
+| [Existence d’une tarification progressive de l’eau](#) |
+| [Nombre de fontaines publiques pour 1.000 habitants](#) |
 
 | **Gestion de crise** : Disposer de réserves d’eau potable | 
 |---|
-| [Nombre de sources fournissant au moins 5% de la capacité totale d’approvisionnement en eau du territoire](https://example.com/sources-approvisionnement) |
-| [Fréquence des interruptions de service non programmées](https://example.com/interruptions-service) |
-| [Existence de stocks stratégiques d’eau, d’interconnexions territoriales et/ou de moyens de potabilisation](https://example.com/stocks-strategiques) |
+| [Nombre de sources fournissant au moins 5% de la capacité totale d’approvisionnement en eau du territoire](#) |
+| [Fréquence des interruptions de service non programmées](#) |
+| [Existence de stocks stratégiques d’eau, d’interconnexions territoriales et/ou de moyens de potabilisation](#) |
 
 | **Transformation** : Adapter les prélèvements à l’évolution des quantités disponibles de la ressource en eau | 
 |---|
-| [Taux de perte dans les réseaux d'eau potable](https://example.com/perte-reseaux) |
-| [Prélèvements d’eau à usage domestique par habitant et par an](https://example.com/prelevements-domestiques) |
+| [Taux de perte dans les réseaux d'eau potable](#) |
+| [Prélèvements d’eau à usage domestique par habitant et par an](#) |
 
 | **Soutenabilité** : Préserver la qualité des ressources en eau | 
 |---|
-| [Taux de conformité microbiologique de l’eau au robinet](https://example.com/conformite-microbiologique) |
-| [Taux de conformité des stations d’épuration](https://example.com/conformite-stations) |
-| [Couverture effective du territoire par un outil de planification et de gestion de l’eau (SAGE, PTGE, PGRE, contrat de milieu)](https://example.com/planification-eau) |
+| [Taux de conformité microbiologique de l’eau au robinet](#) |
+| [Taux de conformité des stations d’épuration](#) |
+| [Couverture effective du territoire par un outil de planification et de gestion de l’eau (SAGE, PTGE, PGRE, contrat de milieu)](#) |
 
 
 
