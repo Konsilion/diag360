@@ -14,13 +14,27 @@ A partir de la Théorie du Donut, qui défend l'idée d'un plancher social, les 
 
 La notion de « fonction-clé » définit l’ensemble des rôles, structures, propriétés qui permettent de répondre au sein d'un territoire aux besoins vitaux, essentiels et induits des citoyen.ne.s, et donc de garantir la poursuite du "vivre ensemble" (cohabitation harmonieuse entre individus ou entre communautés, Larousse).
 
-| **Besoins vitaux**                 | **Besoins essentiels**                | **Besoins induits**                                                                 |
-|------------------------------------|---------------------------------------|-------------------------------------------------------------------------------------|
-| Avoir accès à l’eau               | Nous informer et nous instruire       | Produire et nous approvisionner                                                    |
-| Nous nourrir                      | Vivre ensemble et faire société       | Avoir accès à l’énergie                                                            |
-| Avoir un toit                     | Être en lien avec la nature           | Être en capacité de nous déplacer                                                  |
-| Être en bonne santé               |                                       | Financer la réponse à nos besoins et la résilience de notre territoire             |
-| Nous sentir en sécurité           |                                       |                                                                                     |
+| **Besoins vitaux** | 
+|---------------------|
+| [Avoir accès à l'eau](https://konsilion.github.io/diag360/pages/indicateurs/vitaux/acces_eau/presentation/) |
+| [Nous nourrir](#)         |
+| [Avoir un toit](#)        |
+| [Être en bonne santé](#)  |
+| [Nous sentir en sécurité](#) |
+
+| **Besoins essentiels** | 
+|-------------------------|
+| [Nous informer et nous instruire](#)   |
+| [Vivre ensemble et faire société](#)    |
+| [Être en lien avec la nature](#)        |
+
+| **Besoins induits** | 
+|----------------------|
+| [Produire et nous approvisionner](#)                            |
+| [Avoir accès à l'énergie](#)                                   |
+| [Être en capacité de nous déplacer](#)                          |
+| [Financer la réponse à nos besoins et la résilience de notre territoire](#) |
+
 
 ### Quatre types d’objectifs :
 
