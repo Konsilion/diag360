@@ -16,7 +16,7 @@
 
 | **Subsistance** : Permettre à chacun d'accéder à l'eau nécessaire pour ses besoins | 
 |---|
-| [Part du territoire en alerte sécheresse estivale pour les eaux superficielles](https://example.com/alerte-secheresse) |
+| [Part du territoire en alerte sécheresse estivale pour les eaux superficielles](https://konsilion.github.io/diag360/pages/indicateurs/vitaux/acces_eau/indicateur_1/) |
 | [Existence d’une tarification progressive de l’eau](https://example.com/tarification-eau) |
 | [Nombre de fontaines publiques pour 1.000 habitants](https://example.com/fontaines-publiques) |
 
