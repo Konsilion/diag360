@@ -6,8 +6,6 @@ hide:
 
 # **Diag360° de la résilience territoriale**
 
-<br>
-
 Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territoriaux sur objectifs de subsistance, gestion de crise, transformation et soutenabilité.
 
 <br>
