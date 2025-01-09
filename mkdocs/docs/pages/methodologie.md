@@ -36,7 +36,7 @@ La notion de « fonction-clé » définit l’ensemble des rôles, structures, p
 | [Financer la réponse à nos besoins et la résilience de notre territoire](#) |
 
 
-### Quatre types d’objectifs :
+### Quatre types d’objectifs
 
 * **Objectif Subsistance** : la subsistance se définit comme le fait de satisfaire à ses besoins élémentaires. Avant tout, la résilience implique de répondre au « plancher social » des besoins humains.
 * **Objectif Gestion de crise** : Pour être qualifiée de résiliente, cette capacité à pourvoir aux besoins de base doit être effective en toute situation, y compris lorsque le territoire subit des chocs ou des stress pouvant heurter sa stabilité. La collectivité doit être en capacité d'affronter ces crises inéluctables et de continuer à répondre ux besoins fondamentaux de ses habitants pendant ces crises.
@@ -52,15 +52,15 @@ L’outil observe l’état de la résilience du territoire, résultant de ses c
 * **Indicateurs d’état** : Ils décrivent un état de résilience actuel du territoire. On peut aussi les concevoir comme des indicateurs de résultat de l’action passée des acteurs du territoire. 
 * **Indicateurs d’action** : Ils s’intéressent à des actions structurantes qui ont pu être développées dans les années récentes par les pouvoirs publics. A la différence des indicateurs d’état, il s’agit de paramètres sur lesquels la collectivité peut avoir une influence directe au cours du mandat électif en cours.
 
-#### Choix des indicateurs :
+#### Choix des indicateurs
 Dans la mesure du possible, les indicateurs sélectionnés visent à se rapproche de ceux retenus à l’échelle nationale par l’INSEE pour le suivi national des Objectifs de Développement Durable : [Lien](https://www.insee.fr/fr/statistiques/2658587?sommaire=2654964)
 
-#### Pondération des indicateurs :
+#### Pondération des indicateurs
 Par défaut, tous les indicateurs ont une égale pondération de 1. Il est suggéré d’affiner cette pondération, avec une échelle à deux ou trois coefficients, limitée aux indicateurs d’état, afin d’affiner le diagnostic en fonction des caractéristiques propres à chaque territoire. 
 Par exemple, l’indicateur « Part des forêts et milieux semi-naturels sur la surface totale du territoire » peut se voir attribué un coefficient plus faible dans les territoires historiquement urbanisés ou agricoles. 
 Ce travail de pondération sera affiné dans les versions ultérieures de l’outil, en fonction des retours d’expérience. A date, il est estimé que cette pondération a un impact faible sur les scores finaux. 
 
-#### Échelle d’évaluation : l’intercommunalité.
+#### Échelle d’évaluation : l’intercommunalité
 
 On considère, dans une approche théorique, que le périmètre de l’intercommunalité représente le bassin de vie. La DATAR le définit comme « un territoire présentant une cohérence géographique, sociale, culturelle et économique, exprimant des besoins homogènes en matière d'activités et de services ».  Il intègre donc le bassin d’emploi, mais aussi un bassin d’équipements et de services publics et privés (transport, enseignement, santé, action sociale), qui peut être formé autour d’une ville-centre ou non. Le dernier zonage des bassins de vie par l’INSEE en dénombre 1707, dont 1256 dans l’espace rural. 
 D’autres questionnaires pourront être imaginés à l’avenir pour des échelles inférieures (commune) ou supérieurs (département). 
