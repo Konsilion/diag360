@@ -49,6 +49,6 @@ markdown_extensions:
 
 extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
-  - admin/css/colors.css
+  - personnal.css
   
 copyright: Une plateforme développé avec ❤ par le Collectif Diagnostic 360° - Codé par Phoenix Conseil en Transformation - © 2024 by Frédéric Haas is licensed under CC BY-NC-ND 4.0
