@@ -14,7 +14,7 @@ site_description: Développer, proposer et promouvoir la Low-technologie.
 site_url: https://phoenix-conseil.org
 repo_url: https://github.com/konsilion/diag360
 repo_name: konsilion/diag360
-edit_uri: edit/main/docs/
+edit_uri: edit/master/mkdocs/docs/
 
 
 extra:
