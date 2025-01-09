@@ -79,8 +79,11 @@ D’autres questionnaires pourront être imaginés à l’avenir pour des échel
 
 
 <style>
-  .md-typeset__table thead {
-      width: 100%;
-      table-layout: fixed; /* Assure un meilleur comportement pour des colonnes de tailles égales */
+  .md-typeset__table {
+    width: 100%;
+  }
+  
+  .md-typeset__table table:not([class]) {
+    display: table
   }
 </style>
