@@ -11,7 +11,6 @@
 - [Crater](https://crater.resiliencealimentaire.org/carte/eau-alertes-secheresse/epci)
 
 
-
 ## Présentation de l’indicateur
 
 Cet indicateur est fourni par l’outil CRATER.
