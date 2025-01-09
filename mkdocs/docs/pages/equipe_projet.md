@@ -3,13 +3,10 @@ Au cours de cette phase de préfiguration, une communauté s’est structurée, 
 
 Les partenaires institutionnels du projet
 
-**IMAGES A INSERER**
-
-| ![image](https://github.com/user-attachments/assets/d9b57b99-8da8-49cc-972c-639fe518a8c7)
-| ![Cerema](https://aides-territoires-prod.s3.fr-par.scw.cloud/aides-territoires-prod/backers/cerema_logo.jpg) | ![France Villes & Territoires Durables](URL_FVTD) | ![The Shift Project](URL_SHIFT) |
-|---------------------------------------|-----------------------|---------------------------------------------------|---------------------------------|
-
-
+* Banque des Territoires
+* CEREMA
+* France Villes & Territoires Durables
+* The Shift Project
 
 Les contributrices et contributeurs au projet
 
