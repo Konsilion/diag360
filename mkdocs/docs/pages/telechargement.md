@@ -4,7 +4,7 @@ hide:
   - navigation
 ---
 
-# Télécharger la méthode et le fichier de collecte associé
+# Télécharger l'outil Diag360° - Résilience territoriale
 
 ## Mémoire méthodologique
 
