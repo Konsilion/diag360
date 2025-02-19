@@ -10,9 +10,9 @@ Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territ
 
 <br>
 
-[On continue ?](./pages/presentation_generale_outil/){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
+[On continue ?](./pages/presentation_generale_outil){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 
-[Télécharger l'outil](https://nuage.phoenix-conseil.org/s/sqMC2LjxyM6RMjT){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
+[Télécharger l'outil](./pages/telechargement){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 [Nous contacter](./pages/contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 
 <br><br><br><br><br>
