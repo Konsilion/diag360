@@ -17,11 +17,6 @@ Méthode et outil utiles au diagnostic et à l’appropriation des enjeux territ
 
 <br><br><br><br><br>
 
-??? tip "Qu'est ce que la résilience ?"
-
-    ## Subsistance, gestion de crise, transformation et soutenabilité
-
-    Donner une description
     
 
 <br><br><br><br><br><br><br><br>
