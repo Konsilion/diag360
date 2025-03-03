@@ -2,6 +2,7 @@
 hide:
   - toc
   - navigation
+---
 
 # Demander à recevoir le Diagnostic 360° - Résilience des territoires
 
