@@ -19,4 +19,4 @@ hide:
 
 
 
-<iframe style="width: 100%;border:3px solid black;" src="[Page.html](https://phoenix-conseil.org/index.php/tamis-de-la-resilience-outil/)" id="Iframe"></iframe>
+<iframe style="width: 100%;border:3px solid black;" src="https://phoenix-conseil.org/index.php/tamis-de-la-resilience-outil/" id="Iframe"></iframe>
