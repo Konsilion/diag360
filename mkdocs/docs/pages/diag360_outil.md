@@ -14,7 +14,11 @@ hide:
 <style>
     h1 {display: none}
     	
-    .md-tabs .md-footer {
+    .md-footer {
+        display: none
+    }
+
+    .md-tabs {
         display: none
     }
 
