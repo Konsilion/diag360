@@ -11,6 +11,8 @@ hide:
 |--|--|
 |Subsistance|Indicateur d’action|
 
+## Définition
+
 Cet indicateur correspond à la part du territoire qui a été sous arrêté sécheresse des eaux superficielles en moyenne sur les mois de juillet-août 2016-2020.
 Les arrêtés sécheresse sont pris lorsque la disponibilité de la ressource en eau devient limitée. Ils permettent d’approcher l’état quantitatif de la ressource à travers le temps et l’espace. 
 
