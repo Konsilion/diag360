@@ -34,8 +34,6 @@ La notion de « fonction-clé » définit l’ensemble des rôles, structures, p
 | Avoir accès à l'énergie                                   |
 | Être en capacité de se déplacer                        |
 
-
-
 ### Quatre types d’objectifs
 
 * **Objectif Subsistance** : la subsistance se définit comme le fait de satisfaire à ses besoins élémentaires. Avant tout, la résilience implique en effet de répondre au « plancher social » des besoins humains.
