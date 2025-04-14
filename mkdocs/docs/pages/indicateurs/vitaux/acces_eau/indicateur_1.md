@@ -26,14 +26,3 @@ Les sécheresses peuvent mettre en péril l’approvisionnement des territoires 
 ### Accéder à l'indicateur
 
 - [Crater](https://crater.resiliencealimentaire.org/carte/eau-alertes-secheresse/epci)
-
-
-
-
-
-
-<style>
-  .md-content {
-    max-width: 800px;
-    margin: 0 auto; /* Centrer avec des marges égales */
-}</style>
