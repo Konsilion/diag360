@@ -3,7 +3,6 @@ hide:
     - toc
 ---
 
-
 # Avoir accès à l'eau potable
 
 |Type de besoin|
@@ -30,29 +29,29 @@ Enfin, la loi du 10 février 2020 relative à la lutte contre le gaspillage et �
 
 **Indicateurs transverses aux trois objectifs**
 
-- [Couverture effective du territoire par au moins un outil de planification et de gestion de l’eau]( https://konsilion.github.io/diag360/pages/indicateurs/vitaux/acces_eau/indicateur_1/)
-- [Existence d’un schéma directeur de l’eau potable de moins de 10 ans](#)
-- [Identification d’un agent-référent](#)
+- [Couverture effective du territoire par au moins un outil de planification et de gestion de l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i01)
+- [Existence d’un schéma directeur de l’eau potable de moins de 10 ans](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i02)
+- [Identification d’un agent-référent](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i03)
 
 **Subsistance** : Permettre à chacun de répondre à ses besoins en quantité et avec une qualité suffisantes
 
-- [Taux de conformité physico chimique de l’eau distribuée au robinet](#)
-- [Taux de conformité microbiologique de l’eau distribuée au robinet](#)
-- [Existence d’un diagnostoc territorial sur les conditions d’accès à l’eau de consommation humaine](#)
-- [Mise en œuvre de mesures permettant de garantir l’accès à l’eau de consommation humaine](#)
-- [Existence de dispositifs de protection sociale des abonnés pour l’accès à l’eau](#)
+- [Taux de conformité physico chimique de l’eau distribuée au robinet](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i04)
+- [Taux de conformité microbiologique de l’eau distribuée au robinet](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i05)
+- [Existence d’un diagnostoc territorial sur les conditions d’accès à l’eau de consommation humaine](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i06)
+- [Mise en œuvre de mesures permettant de garantir l’accès à l’eau de consommation humaine](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i07)
+- [Existence de dispositifs de protection sociale des abonnés pour l’accès à l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i08)
 
 **Gestion de crise** : Anticiper les risques sur la ressource et développer des réponses (sobriété, efficacité, substitution)
 
-- [Part du territoire en alerte sécheresse estivale pour les eaux superficielles](#)
-- [Durée d’autonomie du service d’eau potable en cas de rupture](#)
-- [Existence et mise en œuvre d’un PGSSE](#)
-- [Fréquence des interruptions de service non programmées](#)
-- [Existence de ressources alternatives (interconnexion, stocks stratégiques d’eau, d’interconnexions territoriales et/ou de moyens de potabilisation alternatifs en cas d’urgence…)](#)
+- [Part du territoire en alerte sécheresse estivale pour les eaux superficielles](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i09)
+- [Durée d’autonomie du service d’eau potable en cas de rupture](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i10)
+- [Existence et mise en œuvre d’un PGSSE](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i11)
+- [Fréquence des interruptions de service non programmées](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i12)
+- [Existence de ressources alternatives (interconnexion, stocks stratégiques d’eau, d’interconnexions territoriales et/ou de moyens de potabilisation alternatifs en cas d’urgence…)](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i13)
 
 **Soutenabilité** : Optimiser les usages de la ressource et préserver sa qualité
 
-- [Prélèvements d’eau à usage domestique par habitant et par an](#)
-- [Volumes non comptés des réseaux d’eau potable](#)
-- [Existence d’une tarification progressive de l’eau](#)
-- [Conformité des performances des équipements d’épuration](#)
+- [Prélèvements d’eau à usage domestique par habitant et par an](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i14)
+- [Volumes non comptés des réseaux d’eau potable](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i15)
+- [Existence d’une tarification progressive de l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i16)
+- [Conformité des performances des équipements d’épuration](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i17)
