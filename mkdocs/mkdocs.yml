@@ -6,8 +6,8 @@ odenav:
         - Présentation générale : pages/presentation_generale_outil.md
         - Collectif & Partenaires : pages/equipe_projet.md
 
-    - Méthodologie : pages/methodologie.md
-        - Les besoins vitaux :
+    - Méthodologie : 
+        - Les besoins vitaux : pages/methodologie.md
             - pages/besoins/bv1.md
             - pages/besoins/bv2.md
             - pages/besoins/bv3.md
