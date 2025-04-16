@@ -19,8 +19,8 @@ nav:
 
 
 site_name: Diag360 - Résilience territoriale
-site_author: Nicolas Brémond
-site_description: Développer, proposer et promouvoir la Low-technologie.
+site_author: Nicolas Brémond et le collectif Diag360
+site_description: Outil utile au diagnostic et à l’appropriation des enjeux territoriaux sur objectifs de subsistance, gestion de crise et soutenabilité.
 site_url: https://konsilion.github.io/diag360
 repo_url: https://github.com/Konsilion/diag360
 repo_name: konsilion/diag360
@@ -65,4 +65,4 @@ extra_css:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css
   - personnal.css
   
-copyright: Une plateforme développée avec ❤ par le Collectif Diagnostic 360° - Codée par Nicolas Brémond - © 2024 by Frédéric Haas is licensed under CC BY-NC-ND 4.0 - Made with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs Insiders</a>
+copyright: Une plateforme développée avec ❤ par le Collectif Diagnostic 360° & codée par Nicolas Brémond - © 2024 by Frédéric Haas is licensed under CC BY-NC-ND 4.0 - Made with <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank">Material for MkDocs Insiders</a>
