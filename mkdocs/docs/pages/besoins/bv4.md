@@ -19,19 +19,19 @@ Néanmoins, le choix méthodologique a été fait de ne traiter ici que les enje
 
 **Indicateurs transverses aux trois objectifs**
 
-- [Existence d’un Contrat Local de Santé](https://konsilion.github.io/diag360/pages/indicateurs/vitaux/être_en_capacité_de_se_soigner/indicateur_1/)
-- [Identification d’un agent-référent](#)
+- [Existence d’un Contrat Local de Santé](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i01)
+- [Identification d’un agent-référent](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i02)
 
 **Subsistance** : Permettre à chacun de se soigner
-- [Accessibilité potentielle localisée des médecins généralistes (en nombre de consulations accessibles par an et par habitant](#)
-- [Part de la population éloignée des soins de proximité (pharmacie, médecin généraliste, kiné, infirmier, dentiste](#)
-- [Densité d’officine de Pharmacie](#)
-- [Accessibilité potentielle localisée (APL) aux infirmiers de 65 ans et moins](#)
-- [Accessibilité potentielle (APL) aux sage-femmes de 65 ans et moins](#)
-- [Accessibilité potentielle (APL) aux Chirurgiens-Dentistes de 65 ans et moins](#)
-- [Accessibilité potentielle (APL) aux Masseurs-Kinésithérapeutes de 65 ans et moins](#)
-- [Taux d’équipement en Médecine-Chirurgie-Obstétrique (nombre de lits)](#)
+- [Accessibilité potentielle localisée des médecins généralistes (en nombre de consulations accessibles par an et par habitant](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i03)
+- [Part de la population éloignée des soins de proximité (pharmacie, médecin généraliste, kiné, infirmier, dentiste](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i04)
+- [Densité d’officine de Pharmacie](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i05)
+- [Accessibilité potentielle localisée (APL) aux infirmiers de 65 ans et moins](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i06)
+- [Accessibilité potentielle (APL) aux sage-femmes de 65 ans et moins](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i07)
+- [Accessibilité potentielle (APL) aux Chirurgiens-Dentistes de 65 ans et moins](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i08)
+- [Accessibilité potentielle (APL) aux Masseurs-Kinésithérapeutes de 65 ans et moins](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i09)
+- [Taux d’équipement en Médecine-Chirurgie-Obstétrique (nombre de lits)](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i10)
 
 **Gestion de crise** : Assurer la continuité des services de santé en situation de crise
 
-- [Présence d’une structure de santé de type SU ou SMUR](#)
+- [Présence d’une structure de santé de type SU ou SMUR](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i11)
