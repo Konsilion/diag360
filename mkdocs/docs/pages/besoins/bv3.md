@@ -23,25 +23,25 @@ Le changement climatique accroît les risques pour l'habitabilité des territoir
 ## Indicateurs
 
 **Indicateurs transverses aux trois objectifs**
-- [Existence d’un Plan Local de l’Habitat (PLH)](https://konsilion.github.io/diag360/pages/indicateurs/vitaux/avoir_un_toit/indicateur_1/)
-- [Identification d’un agent-référent](#)
+- [Existence d’un Plan Local de l’Habitat (PLH)](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i01)
+- [Identification d’un agent-référent](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i02)
 
 **Subsistance** : Permettre à chacun de vivre dans un logement digne
 
-- [Nombre de personnes sans domicile fixe pour 100 000 habitants](#)
-- [Part des logements en situation de sur-occupation](#)
-- [Taux de précarité énergétique liée au logement](#)
-- [Taux de résidences secondaires](#)
-- [Part des logements sociaux dans l’ensemble des logements](#)
-- [Taux de logements vacants](#)
+- [Nombre de personnes sans domicile fixe pour 100 000 habitants](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i03)
+- [Part des logements en situation de sur-occupation](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i04)
+- [Taux de précarité énergétique liée au logement](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i05)
+- [Taux de résidences secondaires](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i06)
+- [Part des logements sociaux dans l’ensemble des logements](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i07)
+- [Taux de logements vacants](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i08)
 
 **Gestion de crise** : Anticiper les risques sur le bâti et disposer de solutions d’hébergement en cas de crise
 
-- [Existence d’un document identifiant les zones de logement exposées aux risques climatiques](#)
-- [Capacité d’accueil des abris d’urgence pour 100 000 habitants](#)
+- [Existence d’un document identifiant les zones de logement exposées aux risques climatiques](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i09)
+- [Capacité d’accueil des abris d’urgence pour 100 000 habitants](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i10)
 
 **Soutenabilité** : Minimiser l’empreinte environnementale de l’habitat
 
-- [Part des logements « passoires énergétiques » dans le parc de logements](#)
-- [Part de résidences principales chauffées au gaz ou au fioul](#)
-- [Mise en œuvre effective d’un service public local, à travers une plateforme territoriale de la rénovation énergétique et un dispositif d’accompagnement technique et financier pour la rénovation des logements des ménages modestes](#)
+- [Part des logements « passoires énergétiques » dans le parc de logements](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i11)
+- [Part de résidences principales chauffées au gaz ou au fioul](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i12)
+- [Mise en œuvre effective d’un service public local, à travers une plateforme territoriale de la rénovation énergétique et un dispositif d’accompagnement technique et financier pour la rénovation des logements des ménages modestes](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i13)
