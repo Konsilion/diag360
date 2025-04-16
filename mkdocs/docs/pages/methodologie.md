@@ -16,7 +16,7 @@ La notion de « fonction-clé » définit l’ensemble des rôles, structures, p
 
 | **Besoins vitaux** | 
 |---------------------|
-| Avoir accès à l'eau potable |
+| [Avoir accès à l'eau potable](https://konsilion.github.io/diag360/pages/besoins/bv1/) |
 | Se nourrir        |
 | Avoir un toit       |
 | Être en capacité de se soigner |
