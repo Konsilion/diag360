@@ -8,8 +8,7 @@ odenav:
         - Collectif & Partenaires : pages/equipe_projet.md
 
     - Les besoins : 
-        - Les besoins vitaux : 
-            - pages/besoins/bv1.md
+        - Les besoins vitaux : pages/besoins/bv1.md
             - pages/besoins/bv2.md
             - pages/besoins/bv3.md
             - pages/besoins/bv4.md
