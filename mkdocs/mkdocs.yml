@@ -4,10 +4,11 @@ odenav:
 
     - Le projet : 
         - Présentation générale : pages/presentation_generale_outil.md
+        - Méthodologie : pages/methodologie.md
         - Collectif & Partenaires : pages/equipe_projet.md
 
     - Méthodologie : 
-        - Les besoins vitaux : pages/methodologie.md
+        - Les besoins vitaux : 
             - pages/besoins/bv1.md
             - pages/besoins/bv2.md
             - pages/besoins/bv3.md
