@@ -4,10 +4,9 @@ nav:
 
     - Le projet : 
         - Présentation générale : pages/presentation_generale_outil.md
-        - Methodologie : pages/methodologie.md
         - Collectif & Partenaires : pages/equipe_projet.md
 
-    - Les besoins territoriaux :
+    - Les besoins territoriaux : pages/methodologie.md
         - Les besoins vitaux :
             - pages/besoins/bv1.md
             - pages/besoins/bv2.md
