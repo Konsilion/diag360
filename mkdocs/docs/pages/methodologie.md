@@ -4,25 +4,25 @@
 
 ### Trois catégories de besoins
 
-| **Besoins vitaux** | 
-|---------------------|
-| [Avoir accès à l'eau potable](https://konsilion.github.io/diag360/pages/besoins/bv1/) |
-| Se nourrir        |
-| Avoir un toit       |
-| Être en capacité de se soigner |
-| Se sentir en sécurité |
+**Besoins vitaux** :
 
-| **Besoins essentiels** | 
-|-------------------------|
-| S'informer et s'instruire  |
-| Vivre ensemble et faire société    |
-| Être en lien avec la nature      |
+- Avoir accès à l'eau potable
+- Se nourrir
+- Avoir un toit
+- Être en capacité de se soigner
+- Se sentir en sécurité
 
-| **Besoins induits** | 
-|----------------------|
-| Produire et s'approvisionner localement                         |
-| Avoir accès à l'énergie                                   |
-| Être en capacité de se déplacer                        |
+**Besoins essentiels** :
+
+- S'informer et s'instruire
+- Vivre ensemble et faire société
+- Être en lien avec la nature
+
+**Besoins induits** :
+
+- Produire et s'approvisionner localement
+- Avoir accès à l'énergie
+- Être en capacité de se déplacer
 
 A partir de la Théorie du Donut, qui défend l'idée d'un plancher social, les besoins humains et sociétaux sont structurés en 3 catégories :
 
@@ -73,14 +73,3 @@ D’autres questionnaires pourront être imaginés à l’avenir pour des échel
 * [Territoire au futur](https://territoiresaufutur.org/carte)
 * [ODD et Territoires](https://oddett.lab.sspcloud.fr/app/dealapp)
 * Portail open data de la Direction interministérielle du numérique (DINUM)
-
-
-<style>
-  .md-typeset__table {
-    width: 100%;
-  }
-  
-  .md-typeset__table table:not([class]) {
-    display: table
-  }
-</style>
