@@ -47,7 +47,10 @@ theme:
 plugins:
   - macros
   - search
-  - pdf-export
+  - pdf-export:
+      combined: true  # <-- très important pour un PDF global
+      verbose: true
+      media_type: print
 
 markdown_extensions:
   - tables
