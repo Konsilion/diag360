@@ -16,3 +16,4 @@ jobs:
       - run: pip install mkdocs-video
       - run: pip install mkdocs-pdf-export-plugin
       - run: cd mkdocs/ && mkdocs gh-deploy --force
+      - run: cd mkdocs/ && mkdocs pdf  # Ajoutez cette ligne pour générer le PDF
