@@ -14,6 +14,14 @@ nav:
             - pages/besoins/bv3.md
             - pages/besoins/bv4.md
             - pages/besoins/bv5.md
+        - Les besoins essentiels : 
+            - pages/besoins/be1.md
+            - pages/besoins/be2.md
+            - pages/besoins/be3.md
+        - Les besoins induits : 
+            - pages/besoins/bi1.md
+            - pages/besoins/bi2.md
+            - pages/besoins/bi3.md
         
     - L'outil: pages/demande_telechargement.md
 
