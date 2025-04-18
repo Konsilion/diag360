@@ -31,13 +31,10 @@ La notion de « fonction-clé » définit l’ensemble des rôles, structures, p
 
 ### Quatre types d’objectifs
 
-**Objectif Subsistance** : la subsistance se définit comme le fait de satisfaire à ses besoins élémentaires. Avant tout, la résilience implique en effet de répondre au « plancher social » des besoins humains.
-
-**Objectif Gestion de crise** : Pour être qualifiée de résiliente, cette capacité à pourvoir aux besoins de base doit être effective en toute situation, y compris lorsque le territoire subit des chocs ou des stress pouvant heurter sa stabilité. La collectivité doit être en capacité d'affronter ces crises inéluctables et de continuer à répondre aux besoins fondamentaux de ses habitants pendant ces crises.
-
-**Objectif Transformation** : La transformation de notre système socio-technique consiste à tirer les enseignements des crises et faire évoluer les politiques publiques pour réduire les vulnérabilités territoriales et gagner en résilience. Sans transformation, pas de résilience. 
-
-**Objectif Soutenabilité** : Dans un monde post-carbone, la collectivité doit permettre à ses habitants de répondre à leurs besoins avec le plus faible impact environnemental possible, afin de ne pas dépasser les « plafonds écologiques ». Cet objectif vise à traduire à l'échelon local la notion de limites planétaires. Si la résilience ne s’accompagne pas de soutenabilité, elle creuse sa propre tombe.
+* **Objectif Subsistance** : la subsistance se définit comme le fait de satisfaire à ses besoins élémentaires. Avant tout, la résilience implique en effet de répondre au « plancher social » des besoins humains.
+* **Objectif Gestion de crise** : Pour être qualifiée de résiliente, cette capacité à pourvoir aux besoins de base doit être effective en toute situation, y compris lorsque le territoire subit des chocs ou des stress pouvant heurter sa stabilité. La collectivité doit être en capacité d'affronter ces crises inéluctables et de continuer à répondre aux besoins fondamentaux de ses habitants pendant ces crises.
+* **Objectif Transformation** : La transformation de notre système socio-technique consiste à tirer les enseignements des crises et faire évoluer les politiques publiques pour réduire les vulnérabilités territoriales et gagner en résilience. Sans transformation, pas de résilience. 
+* **Objectif Soutenabilité** : Dans un monde post-carbone, la collectivité doit permettre à ses habitants de répondre à leurs besoins avec le plus faible impact environnemental possible, afin de ne pas dépasser les « plafonds écologiques ». Cet objectif vise à traduire à l'échelon local la notion de limites planétaires. Si la résilience ne s’accompagne pas de soutenabilité, elle creuse sa propre tombe.
 
 Une majorité de fonctions-clés présente des objectifs des quatre types, mais cela n’est pas systématique. Les objectifs « Transformation » et « Soutenabilité » sont aussi parfois fusionnés.
 
@@ -46,9 +43,8 @@ Une majorité de fonctions-clés présente des objectifs des quatre types, mais 
 L’outil observe l’état de la résilience du territoire, résultant de ses caractéristiques propres et de son histoire, mais il interroge aussi l’action récente des pouvoirs publics locaux, qui peuvent avoir une influence rapide et concrète pour la résilience de son territoire. 
 
 
-**Indicateurs d’état** : Ils décrivent un état de résilience actuel du territoire. On peut aussi les concevoir comme des indicateurs de résultat de l’action passée des acteurs du territoire. 
-
-**Indicateurs d’action** : Ils s’intéressent à des actions structurantes qui ont pu être développées dans les années récentes par les pouvoirs publics. A la différence des indicateurs d’état, il s’agit de paramètres sur lesquels la collectivité peut avoir une influence directe au cours du mandat électif en cours. 
+* **Indicateurs d’état** : Ils décrivent un état de résilience actuel du territoire. On peut aussi les concevoir comme des indicateurs de résultat de l’action passée des acteurs du territoire. 
+* **Indicateurs d’action** : Ils s’intéressent à des actions structurantes qui ont pu être développées dans les années récentes par les pouvoirs publics. A la différence des indicateurs d’état, il s’agit de paramètres sur lesquels la collectivité peut avoir une influence directe au cours du mandat électif en cours. 
 
 #### Choix des indicateurs
 Dans la mesure du possible, les indicateurs sélectionnés visent à se rapproche de ceux retenus à l’échelle nationale par l’INSEE pour le suivi national des Objectifs de Développement Durable : [En savoir plus - INSEE](https://www.insee.fr/fr/statistiques/2658587?sommaire=2654964)
