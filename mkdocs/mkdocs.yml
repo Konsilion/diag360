@@ -47,6 +47,7 @@ theme:
 plugins:
   - macros
   - search
+  - pdf-export
 
 markdown_extensions:
   - tables
