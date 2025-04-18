@@ -32,6 +32,6 @@ Cette fonction-clé représente aussi la capacité de la collectivité à assure
 **Gestion de crise** : Anticiper les risques pour la sécurité des personnes et organiser la gestion de crise
 
 - [Nombre de risques majeurs auxquels sont exposées les communes du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i04)
-- [Recensement effectif des sites ou événements sensibles](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i05)
+- [Existence d'un recensement des sites et événements sensibles](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i05)
 - [Existence de relations de travail entre la collectivité et les associations agréées de sécurité civile sur le territoire départemental](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i06)
 - [Existence d’un schéma de résilience numérique](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i07)
