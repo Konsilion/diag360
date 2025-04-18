@@ -3,6 +3,7 @@ hide:
     - toc
 ---
 
+
 # Avoir accès à l'eau potable
 
 |Type de besoin|
@@ -16,9 +17,9 @@ Actuellement, l’eau se révèle être la première ressource naturelle affect�
 La directive européenne n°2020/2184, dite directive « eau potable » a imposé aux États-membres de mettre en œuvre « les mesures nécessaires pour améliorer ou préserver l’accès de tous aux eaux destinées à la consommation humaine, en particulier les groupes vulnérables et marginalisés ».
 
 Cette directive a été transposée en droit français : 
-•	Législativement par l’ordonnance n° 2022-1611 du 22 décembre 2022 relative à l'accès et à la qualité des eaux destinées à la consommation humaine ; 
-•	Réglementairement par deux décrets du 29 décembre 2022, n° 2022-1720 relatif à la sécurité sanitaire des eaux destinées à la consommation humaine et n°2022-1721 relatif à l'amélioration des conditions d'accès de tous à l'eau destinée à la consommation humaine ; 
-•	Treize arrêtés du 30 décembre 2022.
+* Législativement par l’ordonnance n° 2022-1611 du 22 décembre 2022 relative à l'accès et à la qualité des eaux destinées à la consommation humaine ; 
+* Réglementairement par deux décrets du 29 décembre 2022, n° 2022-1720 relatif à la sécurité sanitaire des eaux destinées à la consommation humaine et n°2022-1721 relatif à l'amélioration des conditions d'accès de tous à l'eau destinée à la consommation humaine ; 
+* Treize arrêtés du 30 décembre 2022.
 
 Aux termes de ces textes, l’article L. 2224-7-2 du Code Général des Collectivités Territoriales expose que les collectivités compétentes « identifient sur leur territoire les personnes n'ayant pas accès, ou ayant un accès insuffisant, à l'eau potable ainsi que les raisons expliquant cette situation. » 
 
@@ -30,7 +31,7 @@ Enfin, la loi du 10 février 2020 relative à la lutte contre le gaspillage et �
 **Indicateurs transverses aux trois objectifs**
 
 - [Couverture effective du territoire par au moins un outil de planification et de gestion de l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i01)
-- [Existence d’un schéma directeur de l’eau potable de moins de 10 ans](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i02)
+- [Existence d’un schéma directeur de l’eau potable de moins de 10 ans](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i02) 
 - [Identification d’un agent-référent](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i03)
 
 **Subsistance** : Permettre à chacun de répondre à ses besoins en quantité et avec une qualité suffisantes
@@ -44,14 +45,14 @@ Enfin, la loi du 10 février 2020 relative à la lutte contre le gaspillage et �
 **Gestion de crise** : Anticiper les risques sur la ressource et développer des réponses (sobriété, efficacité, substitution)
 
 - [Part du territoire en alerte sécheresse estivale pour les eaux superficielles](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i09)
-- [Durée d’autonomie du service d’eau potable en cas de rupture](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i10)
-- [Existence et mise en œuvre d’un PGSSE](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i11)
-- [Fréquence des interruptions de service non programmées](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i12)
+- [Existence et mise en œuvre d’un PGSSE](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i10)
+- [Fréquence des interruptions de service non programmées](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i11)
+- [Durée d’autonomie du service d’eau potable en cas de rupture](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i12)
 - [Existence de ressources alternatives (interconnexion, stocks stratégiques d’eau, d’interconnexions territoriales et/ou de moyens de potabilisation alternatifs en cas d’urgence…)](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i13)
 
 **Soutenabilité** : Optimiser les usages de la ressource et préserver sa qualité
 
-- [Prélèvements d’eau à usage domestique par habitant et par an](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i14)
-- [Volumes non comptés des réseaux d’eau potable](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i15)
-- [Existence d’une tarification progressive de l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i16)
+- [Volumes non comptés des réseaux d’eau potable](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i14)
+- [Existence d’une tarification progressive de l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i15)
+- [Prélèvements d’eau à usage domestique par habitant et par an](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i16)
 - [Conformité des performances des équipements d’épuration](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i17)

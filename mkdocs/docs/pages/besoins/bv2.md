@@ -26,21 +26,20 @@ L’échelon local apparaît particulièrement pertinent pour développer une ap
 **Subsistance** : Permettre à chacun un approvisionnement alimentaire de proximité et sain
 
 - [Evolution de la Surface Agricole Utile entre 2010 et 2020](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i03)
-- [Accessibilité théorique aux commerces alimentaires à vélo](#)
 - [Nombre de marchés de producteurs hebdomadaires pour 1000 habitants](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i04)
 - [Densité de supérettes et d’épiceries pour 1000 habitants (magasin)](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i05)
-- [Part de la restauration collective respectant les critères d’approvisionnement de la loi Elagim](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i06)
+- [Accessibilité théorique aux commerces alimentaires à vélo](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i06)
+- [Part de la restauration collective respectant les critères d’approvisionnement de la loi Elagim](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i07)
 
 **Gestion de crise** : Anticiper les risques de rupture de l'approvisionnement alimentaire et augmenter la souveraineté alimentaire du territoire 
 
-- [Adéquation théorique entre la production agricole et la consommation du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i07)
 - [Evolution des actifs agricoles entre 2008 et 2019](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i08)
 - [Densité des outils de logistique alimentaire et de transformation locale](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i09)
+- [Adéquation théorique entre la production agricole et la consommation du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i10)
 
 **Soutenabilité** : Minimiser l’empreinte écologique de l’alimentation et préserver les écosystèmes nourriciers
 
-- [Part de la surface agricole en agriculture biologique sur la surface agricole utile](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i10)
-- [Indice de Fréquence de Traitement](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i11)
-- [Quantité annuelle d'achats de substances actives rapporté à la SAU du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i12)
-- [Score « Haute Valeur Naturelle »](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i13)
-
+- [Part de la surface agricole en agriculture biologique sur la surface agricole utile](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i11)
+- [Part de la Surface Agricole Utile sur la superficie totale du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i12)
+- [Quantité annuelle d'achats de substances actives rapporté à la SAU du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i13)
+- [Score « Haute Valeur Naturelle »](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i14)
