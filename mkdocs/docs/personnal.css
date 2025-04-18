@@ -32,3 +32,10 @@ h3 {
 .md-content li {
     text-align: justify;
 }
+
+
+.md-typeset__table {
+    display: inline-block;
+    margin-bottom: .5em;
+    padding: 0px !important;
+}
