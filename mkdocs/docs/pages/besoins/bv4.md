@@ -23,7 +23,7 @@ Néanmoins, le choix méthodologique a été fait de ne traiter ici que les enje
 
 **Subsistance** : Permettre à chacun de se soigner
 
-- [Accessibilité potentielle localisée des médecins généralistes (en nombre de consulations accessibles par an et par habitant)](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i03)
+- [Accessibilité potentielle localisée (APL) aux médecins généralistes de 65 ans et moins](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i03)
 - [Part de la population éloignée des soins de proximité (pharmacie, médecin généraliste, kiné, infirmier, dentiste)](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i04)
 - [Densité d’officine de Pharmacie](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i05)
 - [Accessibilité potentielle localisée (APL) aux infirmiers de 65 ans et moins](https://konsilion.github.io/diag360/pages/indicateurs/bv4_i06)
