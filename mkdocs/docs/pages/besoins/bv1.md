@@ -46,7 +46,7 @@ Enfin, la loi du 10 février 2020 relative à la lutte contre le gaspillage et �
 
 - [Part du territoire en alerte sécheresse estivale pour les eaux superficielles](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i09)
 - [Existence et mise en œuvre d’un PGSSE](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i10)
-- [Fréquence des interruptions de service non programmées](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i11)
+- [Fréquence des interruptions de service d'eau potable non programmées](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i11)
 - [Durée d’autonomie du service d’eau potable](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i12)
 - [Existence de ressources alternatives (interconnexion, stocks stratégiques d’eau, d’interconnexions territoriales et/ou de moyens de potabilisation alternatifs en cas d’urgence…)](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i13)
 
