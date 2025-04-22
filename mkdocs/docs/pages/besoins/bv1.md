@@ -52,7 +52,7 @@ Enfin, la loi du 10 février 2020 relative à la lutte contre le gaspillage et �
 
 **Soutenabilité** : Optimiser les usages de la ressource et préserver sa qualité
 
-- [Volumes non comptés des réseaux d’eau potable](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i14)
+- [Indice Linéaire des Volumes non comptés (ILVNC)](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i14)
 - [Existence d’une tarification progressive de l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i15)
 - [Prélèvements d’eau à usage domestique par habitant et par an](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i16)
 - [Conformité des performances des équipements d’épuration](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i17)
