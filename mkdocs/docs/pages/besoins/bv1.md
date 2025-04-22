@@ -39,7 +39,7 @@ Enfin, la loi du 10 février 2020 relative à la lutte contre le gaspillage et �
 - [Taux de conformité physico chimique de l’eau distribuée au robinet](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i04)
 - [Taux de conformité microbiologique de l’eau distribuée au robinet](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i05)
 - [Existence d’un diagnostoc territorial sur les conditions d’accès à l’eau de consommation humaine](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i06)
-- [Mise en œuvre de mesures permettant de garantir l’accès à l’eau de consommation humaine](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i07)
+- [Mise en œuvre de mesures permettant de garantir l’accès à l’eau de consommation humaine (Art. L2224-7-3 CGCT)](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i07)
 - [Existence de dispositifs de protection sociale des abonnés pour l’accès à l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i08)
 
 **Gestion de crise** : Anticiper les risques sur la ressource et développer des réponses (sobriété, efficacité, substitution)
