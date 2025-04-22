@@ -27,7 +27,7 @@ L’échelon local apparaît particulièrement pertinent pour développer une ap
 
 - [Evolution de la Surface Agricole Utile entre 2010 et 2020](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i03)
 - [Nombre de marchés de producteurs hebdomadaires pour 1000 habitants](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i04)
-- [Densité de supérettes et d’épiceries pour 1000 habitants (magasin)](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i05)
+- [Densité de supérettes et d’épiceries pour 1000 habitants](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i05)
 - [Accessibilité théorique aux commerces alimentaires à vélo](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i06)
 - [Part de la restauration collective respectant les critères d’approvisionnement de la loi Elagim](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i07)
 
