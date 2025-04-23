@@ -10,7 +10,6 @@ hide:
 |--|
 |Induit|
 
-Coucou fiona, c koi HF (hyper fun)
 
 L’énergie  est  un  produit  de  première nécessité qui permet de répondre à un ensemble varié de besoins, il est indispensable pour permettre de se chauffer, se mouvoir, se vêtir, s’équiper, s’alimenter, se soigner, se divertir… Tous nos usages consomment de l’énergie, sous différentes formes, mais principalement combustible. L’accès à une énergie fiable et bon  marché  a  été  le  fondement  des  révolutions  industrielles  et  de  la  Grande Accélération de la 2nd moitié du 20è siècle, et constitue une clé de lecture majeure de la géopolitique  internationale.  Autant  dans  les  pays  riches  que  dans  les  pays  en développement,  les  questions  de  sécurité et de souveraineté énergétique sont le socle d’une société stable et prospère. 
  
