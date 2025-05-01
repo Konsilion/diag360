@@ -1,6 +1,6 @@
 # Méthodologie
 
-## Structure de l'outil : Besoins, Fonctions-clés, Objectifs de résilience
+## Structure de l'outil - Besoins, Fonctions-clés, Objectifs de résilience
 
 ### Trois catégories de besoins
 
