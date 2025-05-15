@@ -22,16 +22,16 @@ Cette fonction-clé représente aussi la capacité de la collectivité à assure
 
 **Indicateurs transverses aux trois objectifs**
 
--	[Part des communes couvertes par un PCS ou un PICS](https://konsilion.github.io/diag360/pages/indicateurs/bv_i01)
--	[Identification d’un agent-référent au sein de l’intercommunalité](https://konsilion.github.io/diag360/pages/indicateurs/bv_i02)
+-	[Part des communes couvertes par un PCS ou un PICS](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i01)
+-	[Identification d’un agent-référent au sein de l’intercommunalité](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i02)
 
 **Subsistance** : Veiller à la sécurité de chacun au quotidien
 
-- [Nombre de victimes de violences de type « coups et blessures » pour 1000 habitants](https://konsilion.github.io/diag360/pages/indicateurs/bv_i03)
+- [Nombre de victimes de violences de type « coups et blessures » pour 1000 habitants](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i03)
 
 **Gestion de crise** : Anticiper les risques pour la sécurité des personnes et organiser la gestion de crise
 
-- [Nombre de risques majeurs auxquels sont exposées les communes du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv_i04)
-- [Recensement effectif des sites ou événements sensibles](https://konsilion.github.io/diag360/pages/indicateurs/bv_i05)
-- [Existence de relations de travail entre la collectivité et les associations agréées de sécurité civile sur le territoire départemental](https://konsilion.github.io/diag360/pages/indicateurs/bv_i06)
-- [Existence d’un schéma de résilience numérique](https://konsilion.github.io/diag360/pages/indicateurs/bv_i07)
+- [Nombre de risques majeurs auxquels sont exposées les communes du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i04)
+- [Recensement effectif des sites ou événements sensibles](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i05)
+- [Existence de relations de travail entre la collectivité et les associations agréées de sécurité civile sur le territoire départemental](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i06)
+- [Existence d’un schéma de résilience numérique](https://konsilion.github.io/diag360/pages/indicateurs/bv5_i07)
