@@ -23,8 +23,8 @@ Le changement climatique accroît les risques pour l'habitabilité des territoir
 ## Indicateurs
 
 **Indicateurs transverses aux trois objectifs**
+
 - [Existence d’un Plan Local de l’Habitat (PLH)](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i01)
-)
 - [Identification d’un agent-référent](https://konsilion.github.io/diag360/pages/indicateurs/bv3_i02)
 
 **Subsistance** : Permettre à chacun de vivre dans un logement digne
