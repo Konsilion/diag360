@@ -1,6 +1,6 @@
 # Méthodologie
 
-## Structure de l'outil - Besoins, Fonctions-clés, Objectifs de résilience
+## Structure de l'outil
 
 ### Trois catégories de besoins
 
@@ -47,7 +47,7 @@ L’outil observe l’état de la résilience du territoire, résultant de ses c
 * **Indicateurs d’action** : Ils s’intéressent à des actions structurantes qui ont pu être développées dans les années récentes par les pouvoirs publics. A la différence des indicateurs d’état, il s’agit de paramètres sur lesquels la collectivité peut avoir une influence directe au cours du mandat électif en cours. 
 
 
-#### Pondération des indicateurs
+### Pondération des indicateurs
 D'une manière générale, un coefficient de pondération est un facteur que l'on applique à une valeur afin lui donner un poids plus important dans une moyenne générale établie à partir de la somme de ces valeurs. La pondération permet de refléter l'importance ou sa contribution relative de la valeur dans l'ensemble de la note. 
 
 Par défaut, tous les indicateurs ont une égale pondération de 1, considérant ainsi que tous sont d'égale importance. 
@@ -56,7 +56,7 @@ Une deuxième représentation intègre des coefficients de pondération, en fonc
 
 Une troisième représentation peut être à la main des collectivités, en fonction de leurs spécificités et des enjeux particuliers de leur territoire. Par exemple, l’indicateur « Part des forêts et milieux semi-naturels sur la surface totale du territoire » peut se voir attribué un coefficient plus faible dans les territoires historiquement urbanisés ou agricoles. 
 
-#### Échelle d’évaluation : l’intercommunalité
+### Échelle d’évaluation : l’intercommunalité
 
 On considère, dans une approche théorique, que le périmètre de l’intercommunalité représente le bassin de vie. La DATAR le définit comme « un territoire présentant une cohérence géographique, sociale, culturelle et économique, exprimant des besoins homogènes en matière d'activités et de services ».  Il intègre donc le bassin d’emploi, mais aussi un bassin d’équipements et de services publics et privés (transport, enseignement, santé, action sociale), qui peut être formé autour d’une ville-centre ou non. Le dernier zonage des bassins de vie par l’INSEE en dénombre 1707, dont 1256 dans l’espace rural. 
 D’autres questionnaires pourront être imaginés à l’avenir pour des échelles inférieures (commune) ou supérieurs (département). 
@@ -77,7 +77,6 @@ Cette 1e version de l’outil présente une liste d'une centaine d'indicateurs, 
 
 Le présent outil correspond à une tentative de caractérisation de la résilience territoriale, dans ses multiples facettes. Il présente un certain nombre de limites, en premier lieu lié au choix des indicateurs, qui est contraint par leur disponibilité. Les indicateurs retenus ne sont pas toujours ceux qui reflètent le mieux les situations territoriales. Certains indicateurs déterminants manquent à l’appel. Les hypothèses établies pour traduire les valeurs en « note » de résilience sont questionnables et peuvent être remises en cause. Ces indicateurs omettent, par essence, la dimension « qualitative » ou « vécue » des vulnérabilités et de la résilience territoriale.
 Aussi, ce diagnostic ne doit pas être considéré comme une fin en soi. Il ne représente qu’une étape, et se veut être un support de réflexion collective pour tendre vers une caractérisation plus précise de la résilience territoriale. Nous ne pouvons que soutenir et encourager à la réalisation complémentaire de diagnostics qualitatifs, humains, et espérons d’ailleurs que les résultats du Diagnostic 360° constituent un argument pour lancer ce travail.
-
 
 
 ---
