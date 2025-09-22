@@ -34,7 +34,6 @@ L’échelon local apparaît particulièrement pertinent pour développer une ap
 **Gestion de crise** : Anticiper les risques de rupture de l'approvisionnement alimentaire et augmenter la souveraineté alimentaire du territoire 
 
 - [Evolution des actifs agricoles entre 2008 et 2019](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i08)
-- [Densité d’outils de logistique ou de transformation alimentaire locaux](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i09)
 - [Adéquation théorique entre la production agricole et la consommation du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i10)
 
 **Soutenabilité** : Minimiser l’empreinte écologique de l’alimentation et préserver les écosystèmes nourriciers
@@ -43,3 +42,4 @@ L’échelon local apparaît particulièrement pertinent pour développer une ap
 - [Part de la Surface Agricole Utile sur la superficie totale du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i12)
 - [Quantité annuelle d'achats de substances actives rapporté à la SAU du territoire](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i13)
 - [Score « Haute Valeur Naturelle »](https://konsilion.github.io/diag360/pages/indicateurs/bv2_i14)
+
