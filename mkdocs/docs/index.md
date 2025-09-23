@@ -4,13 +4,13 @@ hide:
   - navigation
 ---
 
-# **Diag360° de la résilience territoriale**
+![Logo Diag360](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/DIAG360_LOGO-V1.jpg?raw=true){class="hide-sub1220" style="width: 450px; max-width: 100%;  float: right; margin-left: 10px; margin-bottom:15px; "}
 
-![Logo Diag360](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/DIAG360_LOGO-V1.jpg?raw=true){style="width: 450px; max-width: 100%;  align: right"}
+# **Diag360° de la résilience territoriale**
 
 Evaluez la résilience de votre territoire selon 11 besoins humains, à partir de données publiques
 
-<br>
+<br><br><br><br>
 
 [On continue ?](./pages/presentation_generale_outil){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 
@@ -18,7 +18,8 @@ Evaluez la résilience de votre territoire selon 11 besoins humains, à partir d
 [Nous contacter](./pages/contact){ .md-button .md-button--secondary style="float: right; margin-left: 10px; margin-bottom:15px;"}
 
 <br><br><br><br><br>
-    
+  
+![Bandeau Diag360](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/Bandeau_Diag360.png?raw=true){style="max-width: 100%"}
 
 <br><br><br><br><br><br><br><br>
 
@@ -41,6 +42,12 @@ Evaluez la résilience de votre territoire selon 11 besoins humains, à partir d
        background-size: cover;
        background-attachment: fixed;
     }
+
+  @media (max-width: 1220px) {
+    .hide-sub1220 {
+      display: none !important;
+    }
+  }
 
   .md-content__button{display:none}
 
