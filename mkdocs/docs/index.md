@@ -10,7 +10,7 @@ hide:
 
 Evaluez la résilience de votre territoire selon 11 besoins humains, à partir de données publiques
 
-<br><br><br><br>
+<br><br>
 
 [On continue ?](./pages/presentation_generale_outil){ .md-button .md-button--primary style="float: left; margin-bottom: 75px;"}
 
