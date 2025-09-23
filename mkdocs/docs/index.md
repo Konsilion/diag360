@@ -6,6 +6,8 @@ hide:
 
 # **Diag360° de la résilience territoriale**
 
+![Logo Diag360](https://github.com/Konsilion/diag360/blob/master/mkdocs/media/DIAG360_LOGO-V1.jpg?raw=true){style="width: 450px; max-width: 100%;  align: right"}
+
 Evaluez la résilience de votre territoire selon 11 besoins humains, à partir de données publiques
 
 <br>
