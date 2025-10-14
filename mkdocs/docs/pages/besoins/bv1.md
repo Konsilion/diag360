@@ -4,13 +4,13 @@ hide:
 ---
 
 
-# Avoir accès à l'eau potable
+# Avoir accès à l'eau douce
 
 |Type de besoin|
 |--|
 |Vital|
 
-L’accès à l’eau correspond à ses usages de base, en premier lieu les usages domestiques (boisson, préparation et cuisson des aliments, hygiène corporelle, hygiène générale et propreté du domicile ou du lieu de vie), mais aussi à des usages d’activités économiques telles que les activités industrielles, l’agriculture, la production d’électricité et le refroidissement des centrales électriques, etc. Pour répondre à ces divers besoins et activités, des prélèvements d’eau sont réalisés dans les milieux. Pour quelques usages spécifiques, comme le refroidissement, les usagers peuvent recourir à de l’eau saumâtre ou salée, mais dans la majorité des cas, c’est de l’eau douce qui est prélevée. La majorité (autour de 90%) des prélèvements d’eau est restituée aux milieux naturels, hormis la partie évaporée ou absorbée par les individus ou la biosphère, mais souvent avec une qualité altérée et une modification du régime des eaux. Les prélèvements ont donc des impacts sur l’état quantitatif et qualitatif des eaux.
+L’accès à l’eau douce correspond à ses usages de base, en premier lieu les usages domestiques (boisson, préparation et cuisson des aliments, hygiène corporelle, hygiène générale et propreté du domicile ou du lieu de vie), mais aussi à des usages d’activités économiques telles que les activités industrielles, l’agriculture, la production d’électricité et le refroidissement des centrales électriques, etc. Pour répondre à ces divers besoins et activités, des prélèvements d’eau sont réalisés dans les milieux. Pour quelques usages spécifiques, comme le refroidissement, les usagers peuvent recourir à de l’eau saumâtre ou salée, mais dans la majorité des cas, c’est de l’eau douce qui est prélevée. La majorité (autour de 90%) des prélèvements d’eau est restituée aux milieux naturels, hormis la partie évaporée ou absorbée par les individus ou la biosphère, mais souvent avec une qualité altérée et une modification du régime des eaux. Les prélèvements ont donc des impacts sur l’état quantitatif et qualitatif des eaux.
 
 Actuellement, l’eau se révèle être la première ressource naturelle affectée par des conflits d’usage en France, dans un contexte de raréfaction liée au réchauffement climatique. Les enjeux de transformation et de soutenabilité dans nos usages de l’eau sont déterminants pour notre résilience collective. L’accès à l’eau comme droit fondamental est reconnu par la législation. En France, ce droit est reconnu par la loi du 30 décembre 2006 qui affirme que « l’usage de l’eau appartient à tous et chaque personne physique, pour son alimentation et son hygiène, a le droit d’accès à l’eau potable dans des conditions économiquement acceptables par tous ». La quantité minimale d’eau nécessaire pour couvrir les usages domestiques est définie entre 50 et 100 litres d’eau par personne et par jour.
 
@@ -56,3 +56,4 @@ Enfin, la loi du 10 février 2020 relative à la lutte contre le gaspillage et �
 - [Existence d’une tarification progressive de l’eau](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i15)
 - [Prélèvements d’eau à usage domestique par habitant et par an](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i16)
 - [Conformité des performances des équipements d’épuration](https://konsilion.github.io/diag360/pages/indicateurs/bv1_i17)
+
