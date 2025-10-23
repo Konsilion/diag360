@@ -8,7 +8,7 @@ hide:
 
 # **Diag360° de la résilience territoriale**
 
-Evaluez la résilience de votre territoire selon 11 besoins humains, à partir de données publiques
+Le Diag360 est un outil de "diagnostic-flash" de la résilience de votre territoire. Grâce à une série d'indicateurs quantitatifs et factuels, il propose d'établir une photographie du degré de vulnérabilité et de résilience du territoire. Fondé sur 11 besoins humains fondamentaux, il rend la question de la résilience concrète et palpable pour tous. Il apporte un nouveau regard sur le développemment terriorial et sa capacité à absorber les chocs, crises et stress chroniques de l'anthropocène. Il ouvre ainsi un espace politique pour s'acculturer, débattre et définir des actions-clés pour la résilience de votre territoire.
 
 <br><br>
 
