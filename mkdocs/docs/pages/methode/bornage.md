@@ -1,167 +1,132 @@
 # Objectif
 
-On souhaite transformer une variable d'un indicateur territorial (x), définie dans un intervalle ([x_{\min}, x_{\max}]), vers une valeur normalisée (y(x)) dans un intervalle ([0, 1]).
+Lors de la normalisation d’indicateurs de nature différente, il peut être nécessaire de représenter la progression d’une valeur entre un minimum (x_{\min}) et un maximum (x_{\max}), mais avec des comportements visuels différents :
 
-Cette transformation doit pouvoir reproduire trois types de profils :
+* **linéaire**, lorsque chaque unité a le même poids,
+* **logarithmique**, lorsqu’une progression initiale doit être fortement valorisée,
+* **exponentielle**, lorsqu’on souhaite au contraire amplifier les valeurs élevées.
 
-* **linéaire**
-* **logarithmique (concave)**
-* **exponentiel (convexe)**
-
-De plus, les contraintes suivantes doivent être respectées :
+Le but est donc **d’obtenir une seule équation** pouvant représenter ces trois comportements selon un paramètre ajustable, tout en garantissant que :
 
 [
-y(x_{\min}) = 0,\qquad y(x_{\max}) = 1
+y(x_{\min}) = 0,\qquad y(x_{\max}) = 1.
 ]
-
-et selon la forme choisie, on contrôle la pente aux bords.
 
 ---
 
-# ➤ Normalisation de la variable
+# Normalisation préalable
 
-On définit d’abord une version réduite de (x) :
-
-[
-t = \frac{x - x_{\min}}{x_{\max} - x_{\min}}
-]
-
-Ainsi :
+Nous définissons d’abord :
 
 [
-t \in [0, 1],\quad t=0 \text{ quand } x=x_{\min},\quad t=1 \text{ quand } x=x_{\max}
+t = \frac{x - x_{\min}}{x_{\max} - x_{\min}},
 ]
 
-Toutes les formes seront donc exprimées à partir de cette variable réduite.
+avec :
+
+[
+t\in[0,1].
+]
+
+Cette normalisation permet d’exprimer toutes les fonctions dans un même espace unifié, indépendamment des unités ou de l’échelle de départ.
 
 ---
 
-# ➤ Fonction générale
+# Conditions de forme : analyse par les dérivées
 
-La famille de courbes retenue est :
+Pour piloter la forme de la courbe, plutôt que de simplement choisir une fonction arbitraire, nous regardons **le comportement de la dérivée aux bornes**, qui caractérise visuellement la croissance au début et à la fin de l’intervalle.
 
-[
-\boxed{
-y(t)=\frac{e^{k t} - 1}{e^{k}-1}
-}
-]
+## 1. Forme linéaire
 
-où (k) est un paramètre réel permettant de contrôler la forme de la courbe.
+Une progression strictement régulière impose :
 
-Cette fonction présente plusieurs propriétés clés :
-
-* Elle est strictement croissante pour tout (k).
-* Elle vérifie automatiquement les conditions de bornes :
+* pente constante sur tout l’intervalle,
+* donc :
 
 [
-y(0)=0,\qquad y(1)=1
+y = t.
 ]
 
-* Elle contient les profils linéaire, logarithmique et exponentiel comme cas particuliers.
+Dans ce cas :
+
+[
+y'(0) = y'(1) = 1.
+]
+
+## 2. Forme logarithmique (concave)
+
+Nous voulons un comportement typique de fonction logarithmique :
+
+* forte progression initiale,
+* amortissement progressif à l’approche du maximum.
+
+Cela se traduit par :
+
+[
+y'(x_{\min}) > y'(x_{\max}),
+]
+
+et plus précisément :
+
+[
+y'(x_{\max}) = 0,
+\qquad
+y'(x_{\min}) > \frac{1}{x_{\max} - x_{\min}}.
+]
+
+## 3. Forme exponentielle (convexe)
+
+À l’inverse, si l’on veut :
+
+* une progression initiale faible,
+* puis une forte accélération en fin de domaine,
+
+alors on impose :
+
+[
+y'(x_{\min}) = 0,
+\qquad
+y'(x_{\max}) > \frac{1}{x_{\max}-x_{\min}}.
+]
 
 ---
 
-# ➤ Dérivée
+# Vers une équation unifiée
 
-La pente locale est donnée par :
+Nous recherchons une fonction unique capable de satisfaire :
+
+* les mêmes bornes (y(0)=0) et (y(1)=1),
+* des dérivées aux bornes pouvant varier continûment entre les trois cas ci-dessus.
+
+La famille exponentielle suivante répond à toutes ces exigences :
 
 [
-y'(t) = \frac{k, e^{k t}}{e^k - 1}
+y(t) = \frac{e^{k t}-1}{e^k - 1}
 ]
 
-Ce qui permet d’analyser la forme de la courbe selon le signe de (k).
+où (k) est un **paramètre contrôlant la forme** :
+
+* (k = 0) : limite linéaire,
+* (k < 0) : dérivée forte au début et faible à la fin → forme « logarithmique »,
+* (k > 0) : dérivée faible au début et forte ensuite → forme « exponentielle ».
+
+La dérivée est :
+
+[
+y'(t) = \frac{k e^{k t}}{e^k - 1}.
+]
+
+Ce terme montre immédiatement que :
+
+* si (k>0), (y'(t)) augmente avec (t), ce qui correspond à une accélération (exponentielle),
+* si (k<0), (y'(t)) diminue avec (t), reproduisant l’effet logarithmique,
+* si (k=0), la fonction devient linéaire.
+
+Ainsi, **le paramètre (k) permet d’obtenir de façon continue les trois comportements en une seule équation**.
 
 ---
 
-# ➤ Cas linéaire – (k = 0)
-
-Lorsque (k=0), on utilise le développement de Taylor :
-
-[
-\lim_{k\to 0} \frac{e^{k t}-1}{e^k-1} = t
-]
-
-Ce qui donne simplement :
-
-[
-y(t) = t = \frac{x - x_{\min}}{x_{\max} - x_{\min}}
-]
-
-✔ Profil rectiligne
-✔ Pente constante sur tout l’intervalle
-
----
-
-# ➤ Cas exponentiel (convexe) – (k > 0)
-
-Lorsque (k) est positif :
-
-* la courbe démarre lentement,
-* puis s’accélère en fin d’intervalle.
-
-On obtient :
-
-[
-y'(0) = \frac{k}{e^k - 1} \cdot \frac{1}{x_{\max}-x_{\min}} \to 0 \quad\text{quand } k\to\infty
-]
-
-[
-y'(1) = \frac{k e^k}{e^k - 1} \cdot \frac{1}{x_{\max}-x_{\min}} > \frac{1}{x_{\max}-x_{\min}}
-]
-
-Ce qui correspond exactement au comportement souhaité :
-
-* la pente à gauche devient quasi nulle (courbe très aplatie),
-* la pente à droite devient très élevée.
-
-✔ C’est le comportement typique d’une croissance exponentielle.
-
----
-
-# ➤ Cas logarithmique (concave) – (k < 0)
-
-Lorsque (k) est négatif :
-
-* la courbe monte vite au début,
-* puis s’aplatit progressivement vers la droite.
-
-En effet :
-
-[
-y'(0)=\frac{k}{e^k - 1} \cdot \frac{1}{x_{\max}-x_{\min}} > \frac{1}{x_{\max}-x_{\min}}
-]
-
-[
-y'(1)=\frac{k e^k}{e^k - 1} \cdot \frac{1}{x_{\max}-x_{\min}} \to 0 \quad\text{quand } k\to -\infty
-]
-
-Donc :
-
-* pente forte en début d’intervalle,
-* pente faible en fin d’intervalle.
-
-✔ Comportement typique d’une fonction de type logarithmique.
-
----
-
-# ➤ Avantages de cette approche
-
-Cette formulation unique :
-
-* fournit un **bornage garanti entre 0 et 1** ;
-* s’adapte à de nombreux comportements via un seul paramètre (k) ;
-* est continue, monotone et dérivable partout ;
-* permet un réglage quantitatif simple du « caractère » de la transformation.
-
-Elle constitue donc une base rigoureuse et généralisable pour :
-
-* normaliser des indicateurs hétérogènes ;
-* indexer des valeurs dans une échelle commune ([0,1]) ;
-* ajuster la sensibilité à l’évolution selon le contexte métier.
-
----
-
-# ➤ Résumé
+# Résultat final
 
 [
 \boxed{
@@ -169,14 +134,14 @@ y(x)=\frac{e^{k\left(\tfrac{x-x_{\min}}{x_{\max}-x_{\min}}\right)} - 1}{e^k - 1}
 }
 ]
 
-* (k=0) → normalisation linéaire
-* (k>0) → forme exponentielle (faible au début, forte à la fin)
-* (k<0) → forme logarithmique (forte au début, faible à la fin)
+Avec :
 
----
+* (k=0) : comportement linéaire pur,
+* (k<0) : comportement logarithmique (forte montée au début),
+* (k>0) : comportement exponentiel (montée accélérée en fin de course).
 
-Si tu veux, je peux maintenant :
+Cette équation permet donc de :
 
-* te générer une version Markdown prête à coller dans MkDocs,
-* produire des graphes de comparaison pour différentes valeurs de (k),
-* ou rajouter une section sur les dérivées aux bornes pour une justification officielle.
+* normaliser n’importe quelle mesure dans l’intervalle ([0,1]),
+* choisir le « style » de progression avec un seul paramètre,
+* justifier mathématiquement le comportement de la transformation par l’analyse de la dérivée aux bornes.
