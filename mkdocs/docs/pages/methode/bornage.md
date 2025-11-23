@@ -160,7 +160,7 @@ Avec :
     <div>y(xmax) = <strong id="ymax">1</strong></div>
     <div>y'(xmin) = <strong id="dLeft">—</strong></div>
     <div>y'(xmax) = <strong id="dRight">—</strong></div>
-    <div style="margin-left:auto">Exemple : x = <input id="xSample" type="number" value="0.25" step="0.01" style="width:6rem;margin-left:.3rem"> → y = <strong id="ySample">—</strong></div>
+    <div style="margin-left:auto">Exemple : x = <input id="xSample" type="number" value="0.5" step="0.01" style="width:6rem;margin-left:.3rem"> → y = <strong id="ySample">—</strong></div>
   </div>
 </div>
 
