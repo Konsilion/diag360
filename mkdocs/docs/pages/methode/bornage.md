@@ -19,7 +19,7 @@ $$
 Nous définissons d’abord :
 
 $$
-t = \frac{x - x_{\min}}{x_{\max} - x_{\min}},
+t = \frac{x - x_{\min}}{x_{\max} - x_{\min}}
 $$
 
 avec :
