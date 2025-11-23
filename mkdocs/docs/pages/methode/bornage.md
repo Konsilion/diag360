@@ -162,11 +162,6 @@ Avec :
     <div>y'(xmax) = <strong id="dRight">—</strong></div>
     <div style="margin-left:auto">Exemple : x = <input id="xSample" type="number" value="0.25" step="0.01" style="width:6rem;margin-left:.3rem"> → y = <strong id="ySample">—</strong></div>
   </div>
-
-  <p style="margin:.6rem 0 0 0;font-size:.85rem;color:var(--md-foreground-secondary,#666);">
-    La fonction affichée est : <code>y(x) = (e^{k t} - 1) / (e^{k} - 1)</code> avec <code>t = (x - xmin) / (xmax - xmin)</code>.
-    Glisse le slider <code>k</code> pour passer de concave (k &lt; 0) à linéaire (k = 0) à convexe (k &gt; 0).
-  </p>
 </div>
 
 <script>
