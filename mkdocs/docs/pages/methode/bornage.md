@@ -147,7 +147,7 @@ Avec :
 
   <div style="display:flex;gap:1rem;flex-wrap:wrap;align-items:center;margin-bottom:.6rem;">
     <label style="font-size:.95rem;">k = <output id="kVal">0.0</output></label>
-    <input id="kSlider" type="range" min="-20" max="20" step="0.1" value="0" style="flex:1;">
+    <input id="kSlider" type="range" min="-20" max="20" step="1" value="0" style="flex:1;">
     <label style="font-size:.95rem;">xmin <input id="xmin" type="number" value="0" step="0.1" style="width:6rem;margin-left:.3rem"></label>
     <label style="font-size:.95rem;">xmax <input id="xmax" type="number" value="1" step="0.1" style="width:6rem;margin-left:.3rem"></label>
     <button id="resetBtn" style="margin-left:auto;padding:.3rem .6rem;border-radius:6px;border:1px solid #bbb;background:transparent;cursor:pointer">Reset</button>
