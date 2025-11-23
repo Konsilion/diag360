@@ -330,6 +330,7 @@ Avec :
 })();
 </script>
 
+---
 
 Cette équation permet donc de :
 
